@@ -1,0 +1,3578 @@
+@media only screen and (min-width:0px) and (max-width:400px){
+body p{
+	font-size:17px;
+}
+
+p{
+    margin: 0px 0px 10px 0px;   
+}
+
+#inner-dream-area .col-sm-3::after{
+	background:url("images/dot_arrow.svg")no-repeat scroll 50% 50%;	
+	position: sticky;
+	z-index: 99999;
+	top: 335px;
+	display: inline-block;
+	height: 109px;
+	transform: rotate(90deg);
+	width: 90px;
+}
+
+.our_philosophy_lists_row.our_philosophy .our_philosophy_title::after {
+	left: 4% !important;
+}
+
+body.page-id-580 select {
+    background-size: 9%;
+    background-position: 99% 50%;
+}
+
+#country_name, 
+#states_name {
+    width: 100%;
+	position: relative;
+}
+
+#country_name::after,
+#states_name::after {
+    right: 0px;
+    left: auto !important;
+}
+
+body.tax-destinations .laxury_accomodations_list .laxury_accomodations_container .col .laxury_accomodations_content .laxury_accomodations_excerpt p {
+	font-size: 15px;
+}
+
+#country_name::after {
+left: unset;
+right: 0px;
+}
+
+#banner-area {
+    min-height: inherit;
+    display: none;
+}
+
+.header-logo img {
+  margin-top: 110px;
+  width: 94%;
+  margin-left: 10px;
+}
+
+#header-link a {
+  margin-top: 30px;
+  padding: 1px 43px;
+}
+
+#header-link a:hover {
+  background: #d2d4d4;
+}
+
+.inner-header-logo {
+	width: 100%;
+}
+
+
+#header-area .header-logo {
+margin: auto;
+margin-top: 0px;
+width: 310px;
+height: auto;
+padding-right: 15px;
+}
+
+#inner-private-jet-tours-area section h2.widget-title {
+    float: right;
+    width: 195px;
+}
+
+.our_philosophy_lists_row .our_philosophy_title a {
+  padding: 0px;
+}
+
+
+#inner-destination-left-area section{
+	padding: 10px 15px 25px;
+}
+
+#headertext-area{
+	margin-top:0px;
+}
+
+#header-text-area {
+	width: auto;
+	margin: auto;
+}
+
+#header-text-area p {
+	font-size: 17px;
+	line-height: 25px;
+	margin-top: 5px;
+	padding: 0px;
+	text-shadow: none;
+}
+#whole-destination-area {
+	background-size: 19%;
+}
+body.tax-destinations .destination_description_section {
+    padding-bottom: 40px;
+    width: 65%;
+	float: right;
+	padding-right: 0; 
+}
+
+#header-text-area h1 {
+	font-size: 27px;
+	letter-spacing: 3px;
+	line-height: 30px;
+	margin-top: 76px;
+	padding: 5px 0px;
+}
+
+#inner-page-title span.title_border, 
+#header-text-area span.title_border {   
+	width: 43px;
+}
+
+#header-text-area span.title_border{
+    margin: 15px 0 3px;
+	margin-left: 0px;
+    width: 43px;
+}
+
+body.page-id-47 .our_china_host .learn_more{
+	padding:0px 15px;
+}
+
+#inner-private-jet-tours-area section .textwidget p {
+    float: right;
+    width: 230px !important;
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 25px;
+}
+
+body.page-id-64 #top_content_area .help_me_deside_btn {
+	width: 100%;
+}
+
+body.page-id-64 #top_content_area .content_right_area {
+	margin-top: 30px;
+}
+
+#whole-private-jet-tours-area{
+    background-position: 50% 100%;
+    background-size: cover;
+    padding-top: 18px;
+}
+
+#inner-private-jet-tours-area h2.widget-title{
+    line-height: 0px;
+	letter-spacing: 5px;
+	font-size: 27px;
+	padding-top: 10px !important;
+}
+
+#newsletterwidget-3 form input.tnp-submit {
+	background-size: 48% !important;
+}
+
+#inner-dream-area .col-sm-3::after{
+	background:url("images/dot_arrow.svg")no-repeat scroll 50% 50%;	
+	position: sticky;
+	z-index: 99999;
+	top: 335px;
+	display: inline-block;
+	height: 109px;
+}
+
+#content-area section h2.widget-title{
+	letter-spacing: 5px;
+	font-size: 24px;
+	padding-top: 30px !important;
+}
+.our_china_host .col-sm-12 h3.sub_title {
+	margin-top: -4px !important;
+}
+
+.our_china_host p {
+	line-height: 28px !important;
+	margin-bottom: 30px;
+}
+
+#inner-destination-left-area section p {
+	line-height: 23px;
+}
+
+ 
+#inner-private-jet-tours-area button.destination_help_link, 
+body.page-id-47 .our_china_host .learn_more a.destination_help_link {
+	width: 100%;
+	padding: 7px 0px !important;
+}
+
+
+body.page-id-47 button.destination_help_link {
+    padding: 4px 0px !important;
+	width: 100%;
+}
+
+#inner-private-jet-tours-area button.destination_help_link {
+    padding: 4px 0px !important;
+    border: 2px solid #9da2a7;
+    color: #f6f6f5;
+}
+#whole-comment-area section p:last-child {
+	font-size: 20px !important;
+	font-weight: 600;
+	margin: 0px;
+	font-family: 'NeutraText-LightItalic';
+}
+
+#inner-private-jet-tours-area p strong {
+    font-size: 19px;
+    font-weight: normal;
+    width: 237px;	
+    margin: auto;
+}
+
+.our_philosophy_lists_row .our_philosophy_content,
+.our_philosophy_lists_row.our_philosophy .our_philosophy_title{
+    padding: 0 4%;
+}
+
+.our_philosophy_lists_row {
+    clear: left;
+    float: left;
+    position: relative;
+    width: 100%;
+}
+
+#inner-destination-right-area section .front_destinations_list ul li h4{
+	font-size: 26px; 
+	padding: 10px 0px;
+}
+body.tax-destinations .quick_fact_section ul.nav-tabs li.active a {
+	font-size: 15px !important;
+	color: #000;
+}
+.inner-header-logo {
+	margin-bottom: 9px;
+	margin-top: 7px;
+	padding: 0px 0px 0px 39px;
+	width: 100%;
+}
+
+body.tax-destinations .navigation-section a.btnPrevious {
+    margin-top: 15px;
+}
+
+#inner-private-jet-tours-area section h2.widget-title::after {    	
+	width: 40px;	
+	bottom: -25px !important;
+}
+
+#whole-comment-area section p{
+	font-size: 18px;
+    padding: 0px 20px;
+}
+
+#whole-travelling-concierge-area {
+    padding: 10px 0 70px;  
+}
+
+
+
+.our_philosophy_lists_row .our_philosophy_title, 
+.our_philosophy_lists_row.our_philosophy .our_philosophy_title {
+	font-size: 25px;
+	letter-spacing: 5px;
+	line-height: 27px;
+	padding: 15px;
+}
+
+#text-20 a.view_all_blog{
+	left:155px;
+	margin-top: -74px !important;
+}
+
+body.archive .blog_post_content_area,
+body.page-id-598 #content_top_area,
+.page-id-52 #associations_awards_posts .about_us_associations_awards_row,
+body.page-id-52 #whole-comment-area #inner-comment-area,
+.whole_itineraries_content_area .show_buttton,
+body.page-id-52 #whole-content-area .about_us_associations_awards_container,
+body.page-id-419 #content_top_area,
+body.page-id-419 .our_philosophy_content,
+.our_philosophy_toc_container,
+body.page-id-553 #wpforms-386 select, body.page-id-553 .wpforms-field-large.wpforms-field-required,
+body.page-id-553 #wpforms-386 input, body.page-id-553 .wpforms-field-large.wpforms-field-required,
+body.page-id-300 #wpforms-365 input, body.page-id-300 #wpforms-365 textarea,
+body.page-id-52 #whole-comment-area #inner-comment-area p,
+.our_philosophy_content_right,
+.our_philosophy_content_left,
+.destination_guide_container, .experts_posts_container, .china_host_container,
+body.page-id-298 .comment_content,
+body.page-id-64 #content_top_area .destinations_page_category_list ul li,
+body.page-id-64 #top_content_area,
+body.home #inner-header-area,
+#inner-private-jet-tours-area section,
+.our_china_host  .our_guides_container,
+#inner-destination-right-area section .front_destinations_list ul li,
+#inner-comment-area,
+#inner-private-jet-tours-area,
+#inner-travelling-concierge-area,
+#inner-dream-area,
+#inner-blogpost-area #text-20,
+#inner-blogpost-area #text-21,	
+#inner-footer-top-area section,
+body.tax-destinations .recommended_destinations_list .header_section p,
+body.tax-destinations .whole_fine_dining_section .header_section p,
+body.tax-destinations .laxury_accomodations_list .header_section p,
+body.tax-destinations #whole_custom_itineraries_area .header_section p {
+    width: 100% !important;
+}
+
+body.page-id-52 #whole-content-area .right_content_area {
+	padding-top: 30px;
+}
+
+.page-id-52 #social_contribution .right_section {
+    padding: 0 !important;
+}
+
+body.page-id-47 .china_host_right_section,
+body.page-id-47 .china_host_left_section{
+	padding:0px 15px;
+}
+
+#inner-private-jet-tours-area{	
+    padding: 0px 15px;
+}
+
+body.tax-destinations .destination_description_section {
+	margin-right: 0;
+}
+
+#inner-private-jet-tours-area section{
+	padding-right:0px;
+}
+
+#whole-blogpost-area #text-22 section h2.widget-title {
+    font-size: 25px !important;
+}
+
+#custom_html-2 .footer-bottom-right ul {
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+body.page-id-304 .tours_jets_whole_section #tours_itinerary_box {
+	background-position:  68px 0;
+}
+
+#whole-blogpost-area {
+    padding: 40px 0px 10px;
+}
+
+body.page-id-298 #content_top_area ul.nav-tabs li {
+    margin-right: 4px;
+    padding: 0px;
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+body.page-id-298 #content_top_area ul.nav-tabs li a {
+    font-size: 14px;
+	padding: 8px 4px;
+}
+
+body.page-id-298 #content_top_area ul.nav-tabs{
+	padding:30px 0px 5px 0px;	
+}
+
+body.page-id-304 .tours_jets_whole_section .traveling_styles_image_two{
+	padding-right:0px;
+}
+
+body.page-id-553 .wpforms-submit-container {
+	margin-left: 0px;
+}
+
+body.page-id-298 .giude_post .image_section{
+	text-align:center;
+}
+
+.container.faq-top-content{
+	padding: 0px 0;
+}
+
+body.page-id-300 #content_top_area .left_content_area p,
+body.page-id-553 #content_top_area .left_content_area p{	
+	line-height: 26px;
+	padding: 0px;
+}
+
+body.page-id-52 #whole-content-area .right_content_area{
+	width:100%;
+}
+
+.page-id-52 #social_contribution .left_section {
+    padding: 15px 15px 14px 0px;
+}
+
+.our_philosophy_lists_row .our_philosophy_title::after {
+    left: 0px !important;
+}
+
+body.page-id-310 #accordion{
+	padding:0px;
+	margin-top: 28px;
+}
+
+body.page-id-553 .left_content_area .tab_section ul li a,
+body.page-id-300 .left_content_area .tab_section ul li a {
+	padding:0px 15px !important;
+	font-size:16px;
+}
+
+body.page-id-553 .left_content_area .tab_section ul li,
+body.page-id-300 .left_content_area .tab_section ul li {
+    padding: 0px !important;
+    padding-right: 15px !important;
+}
+
+.wpforms-field-container{
+	padding:0px;
+}
+
+.page-id-553 .right_content_area{
+	margin-top: 220px;
+}
+
+body.page-id-553 #wpforms-386-field_2-container textarea{
+	bottom: -125px;
+	width: 100%;
+	left: 0px;
+}
+
+body.page-id-304 .tours_jets_whole_section .private_tour_content,
+body.page-id-304 .tours_jets_whole_section .traveling_styles_image_one{
+	padding-left: 0px;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_itinerary .itinerary_images{
+	left:0px;
+}
+
+.our_philosophy_content_left h2{	
+    font-size: 20px;   
+    line-height: 30px;
+    text-align: left; 
+    padding: 0 15px;
+}
+
+body.page-id-419 #bredacrumb-section {
+	padding-top: 20px;
+}
+
+.our_philosophy_listing_container .our_philosophy_listing_row .our_philosophy_listing_content_section {
+  height: auto !important;
+  padding: 25px 15px !important;
+  position: relative;
+  width: 100%;
+}
+
+.our_philosophy_listing_container .our_philosophy_listing_row .our_philosophy_listing_image_section,
+.our_philosophy_listing_container .our_philosophy_listing_row.odd .our_philosophy_listing_image_section {
+    float: none;
+    width: 100%;
+}
+.inner-header-menu ul li,
+#header-area .header-menu ul.menu li {   
+    display: block;
+}
+
+
+.footer-bootom-left p, .footer-bottom-right ul li a{
+	font-size: 16px;
+    padding: 0 5px;
+}
+
+#inner-private-jet-tours-area .learn_more{
+	padding: 0px 0px 0px 0px;
+}
+.our_philosophy_lists_row .our_philosophy_title a {
+    font-size: 18px;   
+    letter-spacing: 8px;
+    line-height: 0px;
+    margin-bottom: 0px;   
+}
+
+.our_philosophy_lists_row .our_philosophy_content{
+	line-height: 24px !important;
+}
+
+.our_philosophy_lists_container .our_philosophy_inquire a {
+    width: 90% !important;
+}
+
+.popular_blog_lists_row .popular_blog_title h3 a,
+.recent_blog_lists_row .recent_blog_title h3 a{
+	font-size:18px;
+}
+
+body.tax-destinations .top_page_desc{
+	padding-top:0px !important;
+}
+
+/**********************************************/
+body.page-id-64 #content_top_area .destinations_page_category_list ul li h4.destinations_title{
+	font-size:26px;
+}
+
+#whole-dream-area{
+	padding: 50px 0 10px;
+}
+
+body.page-id-598 .learn_more,
+.our_philosophy_content_right p{
+	padding:15px;
+}
+
+body.page-id-598 #inner-travelling-concierge-area section h2.widget-title,
+#experiences_area .header_section h1,
+#destination_area .header_section h1{
+	font-size: 22px !important;  
+    letter-spacing: 4px !important; 
+}
+
+#destination_area .front_destinations_list ul li .gallery_title_area h4{
+	font-size: 20px;
+	letter-spacing: 2px;
+}
+
+body.tax-destinations #quick_facts .brief_history_container .brief_history_section {
+    background-position: 0% 5px;
+}
+
+
+
+.our_philosophy_toc_container ul {
+	display: grid;
+}
+
+body.page-id-419 .our_philosophy_content {
+	margin-top: 0px;
+}
+
+body.page-id-580 #bredacrumb-section {
+    padding-left: 15px;
+    padding-top: 0px;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_itinerary .itinerary_title h4,
+body.page-id-304 .tours_jets_whole_section .tours_journeys_feature .journeys_feature_title h4,
+body.page-id-304 .tours_jets_whole_section .tours_tour_price .tour_price_title h4,
+body.page-id-304 .tours_jets_whole_section .tours_what_includes .what_title h4 {
+    padding-top: 30px;
+}
+
+body.tax-destinations .top_page_desc{
+    padding-top: 28px !important;
+}
+
+
+}
+
+@media only screen and (min-width:401px) and (max-width:767px){ 
+
+body p{
+	font-size:17px;
+}
+
+#header-area .header-logo {
+    width: 340px;
+    height: auto;
+    margin: auto;
+}
+
+#country_name, #states_name {
+    display: block;
+    width: 100%;
+}
+
+body.page-id-580 select {
+    background-size: 4%;
+    background-position: 99% 50%;
+}
+
+#country_name::after {
+    left: unset;
+    right: 0px;
+}
+
+.our_philosophy .our_philosophy_title::after {
+    left: 4% !important;
+}
+
+#whole-comment-area section p {
+    font-size: 20px;
+    padding: 0px 20px;
+}
+
+#inner-private-jet-tours-area section .textwidget p, 
+#inner-private-jet-tours-area section h2.widget-title{
+    padding-left: 40px;
+}
+
+#inner-private-jet-tours-area section h2.widget-title::after {
+    left: 40px;
+}
+
+body.tax-destinations .our_guides_whole_section h2.widget-title {
+    font-size: 29px !important;
+}
+
+body.tax-destinations .top_page_desc{
+    padding-top: 28px !important;
+}
+
+#content-area section h2.widget-title{
+	letter-spacing: 5px;
+	font-size:24px;
+	line-height: 28px;
+}
+
+#inner-private-jet-tours-area .learn_more {
+    padding: 0px 5px 0px 15px;
+}
+
+body.page-id-47 .our_china_host .learn_more{
+    padding: 0px 15px;
+}
+
+#whole-travelling-concierge-area {
+    padding: 35px 0 65px;
+}
+
+.page-id-52 #social_contribution,
+body.page-id-47 .china_host_right_section, 
+body.page-id-47 .china_host_left_section {
+    padding: 0px 15px;
+}
+
+body.page-id-47 .china_host_right_section {
+    padding: 15px;
+}
+
+.our_philosophy_lists_row .our_philosophy_title a {
+    padding: 0px;  
+    font-size: 22px;   
+    letter-spacing: 8px;
+    line-height: 36px;
+    margin-bottom: 0px;   
+}
+
+.our_philosophy_lists_row .our_philosophy_title{
+	padding:0px;
+}
+
+.our_philosophy_lists_row .our_philosophy_content{
+	line-height: 32px;
+}
+
+.popular_blog_lists_row .popular_blog_title h3 a,
+.recent_blog_lists_row .recent_blog_title h3 a{
+	font-size:22px;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_itinerary .itinerary_title h4,
+body.page-id-304 .tours_jets_whole_section .tours_journeys_feature .journeys_feature_title h4,
+body.page-id-304 .tours_jets_whole_section .tours_tour_price .tour_price_title h4,
+body.page-id-304 .tours_jets_whole_section .tours_what_includes .what_title h4 {
+    padding-top: 30px;
+}
+
+#inner-dream-area .col-sm-3::after{
+	background:url("images/dot_arrow.svg")no-repeat scroll 50% 50%;	
+	position: sticky;
+	z-index: 99999;
+	top: 335px;
+	display: inline-block;
+	height: 109px;
+	transform: rotate(90deg);
+    width: 90px;
+}
+
+.inner-header-menu ul li,
+#header-area .header-menu ul.menu li {   
+    display: block;
+}
+
+.header-logo img {
+    margin-top: 110px;
+
+}
+
+#header-link a {
+    margin-top: 44px;
+    padding: 1px 43px;
+}
+
+#header-link a:hover {
+    background: #d2d4d4;
+}
+
+body.page-id-580 #inner-page-title .page-title {
+	letter-spacing: 5px;
+    font-size: 40px;
+	margin-top: 20px;
+}
+
+#inner-page-title .page-title {
+    letter-spacing: 5px;
+    font-size: 21px;
+    margin-top: 3%;
+}
+
+body.page-id-580 #bredacrumb-section{
+	padding-left:15px;
+}
+
+#banner-area {
+    min-height: inherit;
+    display: none;
+}
+
+p{
+    margin: 0px 0px 10px 0px; 
+	font-size: 21px;  
+}
+
+#header-area .header-logo {
+    margin-top: 20px;
+}
+
+#bredacrumb-section,
+body.page-id-52 #whole-content-area #bredacrumb-section,
+.page-id-64 #bredacrumb-section{
+	padding-left:10px;
+}
+
+body.page-id-419 .our_philosophy_content{
+	    padding-top: 10px;
+}
+
+#inner-destination-left-area section{
+	padding: 44px 15px 25px;
+}
+
+#headertext-area{
+	margin-top:0px;
+}
+
+#header-text-area {
+	width: 280px;
+	margin: auto;
+}
+
+#header-text-area p {
+	font-size: 17px;
+	line-height: 25px;
+	margin-top: 5px;
+	padding: 0px;
+	text-shadow: none;
+}
+
+#header-text-area h1 {
+	font-size: 23px;
+	letter-spacing: 2px;
+	line-height: 30px;
+	margin-top: 76px;
+	padding: 5px 0px;
+}
+#header-text-area span.title_border{
+	margin-left: 0px;
+    margin: 15px 0;
+    width: 60px;
+}
+
+#whole-private-jet-tours-area{
+	background-position: 50% 100%;
+	background-size: cover;
+}
+
+#inner-private-jet-tours-area h2.widget-title{
+    line-height: 0px;
+}
+
+.our_philosophy_lists_row .our_philosophy_content,
+.our_philosophy_lists_row.our_philosophy .our_philosophy_title{
+	    padding: 0 4%;
+}
+
+.our_philosophy_lists_row {
+    clear: left;
+    float: left;
+    position: relative;
+    width: 100%;
+}
+
+#inner-destination-right-area section .front_destinations_list ul li h4{
+	font-size: 26px; 
+	padding: 10px 0px;
+}
+
+.our_philosophy_lists_row .our_philosophy_title,
+.our_philosophy_lists_row.our_philosophy .our_philosophy_title,
+#whole-blogpost-area #text-22 h2.widget-title{   
+    font-size: 25px;  	
+	letter-spacing: 5px;
+    line-height: 35px;
+	padding:15px 4%;
+}
+
+#text-20 a.view_all_blog{
+	left:170px;
+	margin-top: -74px !important;
+}
+
+.recent_blog_lists_row .recent_blog_title h3, 
+.popular_blog_lists_row .popular_blog_title h3,
+#whole-blogpost-area section h2.widget-title,
+#inner-footer-top-area section h2.widget-title{
+	font-size: 20px;
+}
+
+body.page-id-598 #content_top_area,
+.destination_guide_container, .experts_posts_container, .china_host_container,
+body.page-id-52 #whole-content-area .right_content_area,
+.page-id-52 #associations_awards_posts .about_us_associations_awards_row,
+body.page-id-52 #whole-comment-area #inner-comment-area,
+body.page-id-553 #wpforms-386 select,
+body.page-id-553 #wpforms-386 input, 
+body.page-id-553 .wpforms-field-large.wpforms-field-required,
+body.page-id-300 #wpforms-365 textarea,
+body.page-id-300 #wpforms-365 input,
+body.page-id-52 #whole-content-area .about_us_associations_awards_container,
+body.page-id-52 #whole-comment-area #inner-comment-area p,
+#inner-comment-area,
+body.page-id-419 #content_top_area,
+#bredacrumb-section,
+.our_philosophy_content_right,
+.our_philosophy_toc_container,
+.our_philosophy_content_left,
+.our_philosophy_content,
+.china_host_container,
+body.page-id-64 #top_content_area,
+body.home #inner-header-area,
+#inner-private-jet-tours-area section,
+.our_china_host  .our_guides_container,
+#inner-destination-right-area section .front_destinations_list ul li,
+#inner-comment-area,
+#inner-private-jet-tours-area,
+#inner-travelling-concierge-area,
+#inner-dream-area,
+#inner-blogpost-area #text-20,
+#inner-blogpost-area #text-21,	
+#inner-footer-top-area section,
+body.tax-destinations .recommended_destinations_list .header_section p,
+body.tax-destinations .whole_fine_dining_section .header_section p,
+body.tax-destinations .laxury_accomodations_list .header_section p,
+body.tax-destinations #whole_custom_itineraries_area .header_section p {
+   width:100% !important;
+}
+
+body.page-id-64 #content_top_area .destinations_page_category_list ul li {
+	width: 48.5%;
+	margin-right: 2% !important;
+	display: inline-block;
+	vertical-align: top;
+	float: none !important;
+}
+
+body.page-id-64 #content_top_area .destinations_page_category_list ul li:nth-child(2n) {
+	margin-right: 0px  !important;
+}
+
+
+body.page-id-64 #content_top_area .destinations_page_category_list ul li h4.destinations_title a {
+	font-size: 18px !important;
+	letter-spacing: 2px;
+}
+
+body.page-id-64 #content_top_area .destinations_page_category_list ul li p {
+	color: #7d7d7d;
+	font-size: 16px;
+	margin-top: 10px;
+	line-height: 20px;
+	height: 75px;
+	overflow: hidden;
+}
+
+#custom_html-2 .footer-bottom-right ul {
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#whole-blogpost-area {
+     padding: 40px 0px 10px;
+}
+
+#whole-blogpost-area section h2.widget-title {
+    margin-bottom: 35px;
+}
+
+.lightbox-container {
+	width: 50%;
+}
+
+.lightbox-description {
+	font-size: 15px !important;
+}
+
+.lightbox-description .desc {
+	font-size: 15px;
+	line-height: 20px;
+}
+/***************** Our guides *************************/	
+
+body.page-id-298 #content_top_area ul.nav-tabs {
+  border: 0 none;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
+
+body.page-id-298 #content_top_area ul.nav-tabs li {
+  margin-left: 0;
+  padding: 0 3px;
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+
+body.page-id-298 #content_top_area ul.nav-tabs li a {
+    font-size: 15px;
+    padding: 12px 8px;
+}
+
+#content_top_area ul.nav-tabs li {
+    padding: 0px 15px;
+    margin-left: 6px;
+}
+
+.our_philosophy_content_right p, .wpforms-field-container,
+body.page-id-298 .right_description,
+body.page-id-298 .left_description{
+	padding: 0px 15px;
+    font-size: 16px;
+}
+
+body.page-id-298 #whole-comment-area .comment_content{
+	font-size: 26px;
+    padding: 10px;
+}
+
+#whole-comment-area .comment_content{
+	font-size: 26px;
+    padding: 10px;
+    width: 100%;
+}
+
+body.page-id-298 .giude_post .image_section {
+    text-align: center;
+}
+
+.our_philosophy_content_left h2 {
+    font-size: 20px;
+    line-height: 30px;
+    text-align: left;
+    padding: 0 15px;
+}
+
+.our_philosophy_listing_container .our_philosophy_listing_row .our_philosophy_listing_content_section {
+    height: auto !important;
+    padding: 25px !important;
+    position:relative;
+    width: 100%;
+}
+
+.our_philosophy_listing_container .our_philosophy_listing_row .our_philosophy_listing_image_section,
+.our_philosophy_listing_container .our_philosophy_listing_row.odd .our_philosophy_listing_image_section {
+    float: none;
+    width: 100%;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_itinerary .itinerary_images{
+	left:0px;
+}
+
+/************************About us********************************/
+body.page-id-419 #bredacrumb-section,
+body.page-id-52 #whole-content-area .left_content_area {
+    padding:15px 0px 0px 0px;
+    font-size: 16px;	
+}
+
+body.page-id-304 .tours_jets_whole_section .private_tour_content, body.page-id-52 #whole-content-area .right_content_area {
+    padding-right: 15px;
+}
+
+.page-id-52 #social_contribution .container,
+.page-id-52 #social_contribution .right_section {
+    padding: 0 !important;
+}
+
+.page-id-52 #social_contribution .right_section img {
+    width: 100%;
+}
+
+.page-id-52 #inner-comment-bottom-area .widget-title, 
+.page-id-52 #working_with_us .widget-title,
+.page-id-52 #social_contribution .widget-title{
+	 font-size: 26px !important;
+}
+
+ /************************* FAQ***********************************************/
+.container.faq-top-content,
+body.page-id-310 #accordion {
+    padding: 0px;
+}
+
+body.page-id-553 .left_content_area .tab_section ul li,
+body.page-id-300 .left_content_area .tab_section ul li{
+	padding: 0px 25px;
+}
+
+body.page-id-553 .left_content_area .tab_section ul li a,
+body.page-id-300 .left_content_area .tab_section ul li a{
+	padding: 8px 30px !important;
+	font-size: 18px;
+}
+body.tax-destinations .laxury_accomodations_list .laxury_accomodations_container .col .laxury_accomodations_content .laxury_accomodations_excerpt p {
+	font-size: 16px;
+	line-height: 22px !important;
+}
+ 
+body.page-id-300 button {
+    margin-left: 15px;
+}
+
+body.page-id-553 button {
+	margin-left: 0;
+}
+
+body.page-id-553 #wpforms-386-field_2-container textarea {
+    bottom: -125px;
+    width: 94%;
+    left: 13px;
+}
+
+#inner-private-jet-tours-area button.destination_help_link {	
+	width: 100%;
+	padding: 10px 0px !important;
+}
+
+.page-id-553 .right_content_area {
+    margin-top: 220px;
+}
+
+.page-id-304 #bredacrumb-section {
+    padding: 10px;
+}
+
+body.page-id-304 .tours_jets_whole_section .traveling_styles_image_two {
+    padding-left: 15px;    
+}
+
+body.page-id-304 .tours_jets_whole_section .traveling_styles_image_two{
+	padding-right:0px;
+}
+
+#whole-dream-area {
+    background: none repeat scroll 0 0 #f0fafa;
+    overflow: hidden;
+    padding: 65px 0 10px;
+}
+
+body.tax-destinations .laxury_accomodations_list .laxury_accomodations_container .col .laxury_accomodations_content .laxury_accomodations_title h3 {
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+body.tax-destinations #quick_facts .demographics_container .destination_section ul li,
+body.tax-destinations #quick_facts .geography_container .geography_section ul li,
+body.tax-destinations #quick_facts .brief_history_container .brief_history_section ul li {
+    line-height: 30px !important;
+}
+
+body.tax-destinations .navigation-section a.btnPrevious {
+    margin-top: 20px;
+}
+
+body.page-id-304 .tours_jets_whole_section .private_jet_inquire {    
+    padding-top: 40px;
+	margin-top: 0px;
+}
+
+body.tax-destinations .quick_fact_section ul.nav-tabs li.active a {
+	font-size: 22px !important;
+}
+
+button.destination_help_link {	
+	width: 100%;
+	padding: 4px 0px!important;
+}
+.inner-header-logo {
+	margin-bottom: 9px;
+	margin-top: 7px;
+	padding: 0px 0px 0px 39px;
+	width: 100%;
+}
+
+body.tax-destinations .laxury_accomodations_list .laxury_accomodations_container .col .laxury_accomodations_content {
+	padding: 20px 5%;
+	width: 100%;
+	left: 0px;
+}
+
+.our_philosophy_lists_container .our_philosophy_inquire a {
+    width: 90% !important;
+}
+
+#wpforms-386-field_3-container select, 
+#wpforms-386-field_4-container select {
+	background-size: 6%;
+}
+
+body.tax-destinations .destination_description_section {
+    padding-bottom: 40px;
+    width: 65%;
+	float: right;
+	padding-right: 0; 
+}
+
+#inner-private-jet-tours-area section .textwidget p {
+    float: right;
+    width: 65%;
+}
+
+body.tax-destinations .quick_fact_section ul.nav-tabs li a {
+	font-size: 14px !important;
+	padding: 15px 11px !important;
+}
+
+#inner-private-jet-tours-area section h2.widget-title {
+    float: right;
+    width: 190px;
+}
+
+
+body.tax-destinations .destination_description_section {
+	margin-right: 10%;
+}
+
+}
+@media only screen and (min-width:0px) and (max-width:767px){
+
+.container {
+	width: 100%;
+	padding-left: 15px !important;
+	padding-right: 15px !important;
+}
+
+.inner-header-menu ul li {
+    float: none;
+    text-align: center;
+}
+
+#whole-header-area video, #whole-header-area section img{
+	width:unset;
+	height: 580px;
+}
+
+#whole-header-area.video_height video,
+#whole-header-area.video_height section img{
+	width:unset;
+	height: 580px  !important;
+}
+
+#inner-dream-area p.images {
+	width: 110px;
+	height: 110px;
+}
+
+#inner-dream-area .col-sm-3 img {
+	width: 100%;
+	height: 110px;
+}
+
+.menu-header-menu-container ul{
+	margin: 67px 0px !important;
+}
+
+body.page-id-304 .tours_jets_whole_section .whole_tours_itinerary_area .tours_itinerary .more_buttons #show_more::before {
+	height: 60px;
+	top: -98px;
+	left: 94px;
+}
+
+body.page-id-304 .tours_jets_whole_section .whole_tours_itinerary_area .tours_itinerary .more_buttons #show_more::after {
+	top: -38px;
+	left: 94px;
+}
+
+.inner-header-menu ul li a,
+#header-area .header-menu ul.menu li a {  
+    font-size: 21px;
+    margin: 0px 0px 10px 0px;
+    display: inline-block;
+	padding: 0px 13px;
+	line-height: 39px;
+	font-family: 'NeutraText-BookItalic';
+	text-shadow: none;
+}
+
+.whole_banner_page_title {
+    min-height: inherit;
+    padding: 10px 0 38px;
+    top: 0px !important;
+    position: relative;
+}	
+
+body.tax-destinations #inner-page-title {
+	background-position: 0% !important;
+}
+
+/*********************Mobile Menu************************/
+
+.inner-header-menu span, 
+.header-menu span {  
+    left: 0px;
+    width: 50px;
+    height: 29px;
+    position: absolute;
+    top: 15px;
+    background: url(images/responsive_menu.png) no-repeat;
+    background-size: 22px;
+}
+ 
+.header-menu span {  
+    left: 17px;
+}
+
+.inner-header-menu {
+    float: none;
+    margin-top: 0;
+    width: auto;
+}
+
+.inner-header-logo img {
+    width: 250px;
+    height: 19px;
+    text-align: center;
+    margin-top: -2px;
+}
+
+#inner-page-header-area {
+    position: relative;
+    background:#193e71;
+}
+
+#content_top_area {
+    padding: 0px;
+}
+
+body.tax-destinations #our_guide_content_area .our_guides_content {
+	font-size: 15px !important;
+	line-height: 27px;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgba(64,137,139,0.95);
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+
+.sidenav a {    
+    display: block;
+    transition: 0.3s;   
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+ .sidenav .closebtn {
+    position: absolute;
+    top: 28px;
+    left: 22px;
+    background: url(images/highlight-close-button.svg) no-repeat;
+    cursor: pointer;
+    font-size: 0;
+    background-position: 0% 50%;
+    width: 48px;
+    background-size: 25px;
+    display: block;
+}
+
+.logged-in .sidenav .closebtn {
+    position: absolute;
+    top: 72px;
+    left: 7px;
+    background: url(images/highlight-close-button.svg) no-repeat;
+    cursor: pointer;
+    font-size: 0;
+    background-position: 0% 50%;
+    width: 48px;
+    background-size: 20px;
+    display: block;
+}
+
+@-moz-document url-prefix() {
+.sidenav .closebtn{	  
+    top: 3px;
+    left: 11px;
+    color: white;   
+}
+}
+
+#content-area #inner-destination-left-area h2.widget-title::after {
+    bottom: -25px;
+    width: 36px;
+}
+
+#inner-destination-left-area section p {
+    line-height: 23px;
+    margin-bottom: 20px;
+    font-size: 17px;
+    letter-spacing: 0.3px;
+}
+
+#inner-destination-left-area section p:last-child {
+	padding: 0px 1.51%;
+}
+
+#whole-comment-area section p,
+body.page-id-52 #whole-comment-area #inner-comment-area p,
+body.page-id-298 #whole-comment-area .comment_content,
+#whole-comment-area section p:last-child,
+body.page-id-298 #whole-comment-area .comment_content strong:nth-child(1) {
+	font-size: 25px !important;
+	padding: 0px 30px;
+	line-height: 44px !important;
+	font-family: 'NeutraText-LightItalic';
+}
+
+#whole-comment-area section p:last-child,
+body.page-id-298 #whole-comment-area .comment_content p:last-child,
+body.page-id-52 #whole-comment-area #inner-comment-area p:last-child,
+body.tax-destinations #whole-comment-area .comment_content p:last-child,
+body.page-id-298 #whole-comment-area .comment_content strong:nth-child(1) {
+   font-weight: 600;
+   font-family: 'NeutraText-LightItalic';
+}
+
+body.page-id-298 #whole-comment-area .comment_content strong:nth-child(1) {
+	margin-bottom: 19px;
+	padding-top: 14px;
+}
+
+body.page-id-298 #whole-comment-area .comment_content strong:nth-child(2) {
+	margin: 0;
+	line-height: 20px;
+}
+
+body.tax-destinations #whole-comment-area .comment_content p:last-child {
+    margin-bottom: 41px;
+}
+
+body.page-id-52 #whole-comment-area #inner-comment-area p:last-child {
+	margin-top: -27px;
+}
+
+#content-area section h2.widget-title {
+    line-height: 33px;
+    margin-top: 0;
+    margin-bottom: 45px;
+}
+
+#content-area #inner-footer-top-area section h2.widget-title {
+	padding-top: 10px !important;
+	margin-bottom: 30px;
+}
+
+.whole_banner_page_title .banner_page_title {
+    padding: 0px 20px;
+}
+
+#top_content_area {
+    padding: 0px !important;
+}
+
+body.page-id-64 #content_top_area .destinations_page_category_list ul li {
+    margin-bottom: 15px;
+    margin-right: 0px;
+}
+
+body.page-id-64 #content_top_area .destinations_page_category_list ul li .destinations_desc {
+	padding: 15px;
+	width: 100%;
+	min-height: 166px;
+}
+
+body.page-id-64 #content_top_area .destinations_page_category_list ul li h4.destinations_title a {
+    font-size: 18px;
+}
+
+body.tax-destinations .quick_fact_section ul.nav-tabs {
+    padding: 1px !important;
+}
+
+body.tax-destinations .quick_fact_section ul.nav-tabs li {
+    padding-right: 0%;
+    display: block;
+    width: 100%;
+}
+
+body.tax-destinations .quick_fact_section ul.nav-tabs li.active a {
+	padding: 10px 5% 10px 10px !important;
+	border: 3px solid #9bdadc !important;
+	color: #000;
+}
+
+#taxonomy_banner_area {
+	display: none;
+}
+
+#bredacrumb-section li {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+body.tax-destinations .top_page_desc, 
+body.tax-destinations #whole-comment-area, 
+body.tax-destinations #whole_custom_itineraries_area, 
+body.tax-destinations .laxury_accomodations_list, 
+body.tax-destinations .our_guides_section, 
+body.tax-destinations .whole_fine_dining_section, 
+body.tax-destinations .highlights_list,
+body.tax-destinations .nav, 
+body.tax-destinations .our_philosophy_inquire, 
+body.tax-destinations .recommended_destinations_list {
+    padding: 20px 0px;
+    overflow: hidden;
+    width: 100%;
+}
+
+body.tax-destinations .recommended_destinations_list .header_section h2.widget-title,
+body.tax-destinations .whole_fine_dining_section .header_section h2.widget-title,
+body.tax-destinations #whole_custom_itineraries_area h2.widget-title,
+body.tax-destinations .highlights_list h2.widget-title,
+body.tax-destinations .our_guides_whole_section h2.widget-title,
+body.tax-destinations .laxury_accomodations_list h2.widget-title,
+body.page-id-598 #inner-travelling-concierge-area section h2.widget-title,
+#traveling_styles_area .header_section h1,
+#experiences_area .header_section h1,
+#destination_area .header_section h1 {
+    color: #333;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    line-height: 29px;
+    margin-bottom: 28px !important;
+    overflow-wrap: break-word;
+    padding: 0px;
+    text-transform: uppercase;
+    margin-top: 35px;
+}
+
+body.tax-destinations .recommended_destinations_list .header_section h2.widget-title,
+body.tax-destinations .whole_fine_dining_section .header_section h2.widget-title,
+body.tax-destinations .our_guides_whole_section h2.widget-title,
+body.tax-destinations .laxury_accomodations_list h2.widget-title,
+body.tax-destinations #whole_custom_itineraries_area h2.widget-title,
+body.tax-destinations .highlights_list h2.widget-title {
+	margin-bottom: 63px !important;
+    margin-top: 24px;
+}
+
+body.tax-destinations .recommended_destinations_list .header_section h2.widget-title{
+	margin-bottom: 63px !important;
+    margin-top: 24px;
+}
+
+body.tax-destinations .recommended_destinations_list .header_section h2.widget-title::after {
+	bottom: -28px;
+}
+
+body.tax-destinations .whole_fine_dining_section .header_section h2.widget-title {
+	margin-bottom: 63px !important;
+    margin-top: 24px;
+}
+
+body.tax-destinations .whole_fine_dining_section .header_section h2.widget-title::after {
+	bottom: -28px;
+}
+
+body.tax-destinations .our_guides_whole_section h2.widget-title{
+	margin-bottom: 0px !important;
+    margin-top: 24px;
+}
+
+body.tax-destinations .our_guides_whole_section h2.widget-title::after {
+	bottom: -9px;
+}
+
+body.tax-destinations .laxury_accomodations_list h2.widget-title {
+	margin-bottom: 63px !important;
+    margin-top: 24px;
+}
+
+body.tax-destinations .laxury_accomodations_list h2.widget-title::after{
+	bottom: -28px;
+}
+
+body.tax-destinations #whole_custom_itineraries_area h2.widget-title {
+	margin-bottom: 58px !important;
+    margin-top: 24px;	
+}
+
+body.tax-destinations #whole_custom_itineraries_area h2.widget-title::after {
+	bottom: -28px;
+}
+
+body.tax-destinations .highlights_list h2.widget-title {
+	margin-bottom: 63px !important;
+    margin-top: 22px;
+}
+
+body.tax-destinations .highlights_list h2.widget-title::after {
+	bottom: -28px;
+}
+
+body.tax-destinations .our_guides_whole_section h2.widget-title:after,
+body.tax-destinations .laxury_accomodations_list h2.widget-title:after,
+body.tax-destinations #whole_custom_itineraries_area h2.widget-title:after,
+body.tax-destinations .top_content .header_section h2.widget-title:after{
+	height: 4px;
+	width:40px;
+}
+
+body.tax-destinations .recommended_destinations_list .header_section p,
+body.tax-destinations .whole_fine_dining_section .header_section p,
+body.tax-destinations .laxury_accomodations_list .header_section p,
+body.tax-destinations .highlights_list .header_section p,
+#traveling_styles_area .header_section p,
+#experiences_area .header_section p,
+#destination_area .header_section p {
+	font-size: 16px;
+	margin-top: 23px;
+    line-height: 23px;
+}
+
+body.tax-destinations .whole_fine_dining_section .fine_dining_excerpt p {
+  font-size: 17px;
+  line-height: 28px;
+  padding: 0;
+  margin-top: 10px;
+}
+
+body.tax-destinations .whole_fine_dining_section .header_section p {
+	margin-bottom: 0px !important;
+}
+
+body.tax-destinations .fine_dining_more_link {
+	margin-top: 42px;
+}
+
+body.tax-destinations .whole_fine_dining_section .fine_dining_container {
+	padding-top: 50px;
+}
+
+body.tax-destinations .quick_fact_section .tab-content {
+	margin-top: 30px;
+}
+
+body.tax-destinations .quick_fact_section #quick_facts {
+	margin-top: 0px;
+}
+
+body.tax-destinations #quick_facts .demographics_container .demographics_title h3,
+body.tax-destinations #quick_facts .brief_history_container .brief_history_title h3,
+body.tax-destinations #quick_facts .geography_container .geography_title h3 {
+	text-align: left;
+}
+
+body.tax-destinations .laxury_accomodations_list .container {
+   padding: 0px;
+}
+
+body.tax-destinations #gallery-container .col,
+#experiences_area .content_list .experiences_lists_row,
+#destination_area .front_destinations_list ul li {
+    margin-bottom: 15px;
+    margin-right: 0px;
+    width: 100%;
+}
+
+body.tax-destinations #whole-comment-area .comment_content,
+#inner-comment-area {
+    background-position: 50% 0; 
+    background-size: 275px auto;
+	padding-top: 15px;
+}
+
+body.tax-destinations #whole-comment-area .comment_content{
+	background-position: 50% 60px;
+}
+
+body.tax-destinations #whole-comment-area .comment_content p {
+    font-size: 21px !important;
+}
+
+body.page-id-52 #whole-comment-area #inner-comment-area p {
+	width: 100%;
+}
+
+body.tax-destinations #whole-comment-area .comment_content p {
+	font-size: 26px !important;
+	line-height: 41px;
+	padding: 0px;
+	width: 100%;
+	letter-spacing: 1px !important;
+}
+
+body.tax-destinations .whole_fine_dining_section .fine_dining_container ul li {
+    padding-right: 0px;
+    width: 100%;
+    margin-bottom: 4px;
+}
+
+.fine_dining_section.container {
+	padding: 0px;
+}
+
+body.page-id-310 #whole_content_bottom_area {
+	padding-bottom: 10px;
+}
+
+body.page-id-310 #whole_content_bottom_area a.accordion-toggle.collapsed,
+body.page-id-310 #whole_content_bottom_area a.accordion-toggle {
+	padding: 10px 0px 10px 16px;
+}
+
+#accordion .faq_row .faq_answer {
+	padding-bottom: 0px;
+}
+
+.quick_fact_section ul.container {
+	padding: 0px;
+    margin-top: 10px;
+}
+
+body.tax-destinations #quick_facts .demographics_container,
+body.tax-destinations #quick_facts .brief_history_container,
+body.tax-destinations #quick_facts .geography_container {
+    padding: 20px 0px;
+}
+
+body.tax-destinations #quick_facts .brief_history_container,
+body.tax-destinations #quick_facts .geography_container {
+	border-top: 0px;
+	padding-top: 15px;
+}
+
+body.tax-destinations .whole_inquire_section {
+	padding: 30px 0px;
+}
+
+body.tax-destinations .recommended_destinations_list .header_section p {
+	margin-bottom: 27px !important;
+}
+
+body.tax-destinations .recommended_destinations_list .view_all_destination a {
+	margin-top: 26px;
+    margin-bottom: 10px;
+}
+
+body.tax-destinations .whole_inquire_section a {
+	padding: 4px 56px 4px 57px;
+}
+
+body.tax-destinations #quick_facts .brief_history_container .brief_history_section ul li {
+    padding-left: 25px;
+    line-height: 22px;
+}
+body.tax-destinations #quick_facts .brief_history_container .brief_history_section ul {
+	margin-top: 50px;
+}
+
+body.tax-destinations #quick_facts .brief_history_container .brief_history_section ul li {
+	background-position: 0% 5px;
+}
+
+#traveling_styles_area .content_list .traveling_styles_lists_row,
+body.page-id-298 .china_host_container .col-sm-9.content_section,
+body.tax-destinations #quick_facts .demographics_container .demographics_title,
+body.tax-destinations #quick_facts .brief_history_container .brief_history_title,
+body.tax-destinations #quick_facts .geography_container .geography_title {
+    text-align: left;
+    width: 100%;
+    margin: 7px 0;
+}
+
+body.tax-destinations #quick_facts .demographics_container .destination_section,
+body.tax-destinations #quick_facts .brief_history_container .brief_history_section,
+body.tax-destinations #quick_facts .geography_container .geography_section {
+    margin-top: 0;
+    padding-left: 0;
+}
+
+body.tax-destinations #quick_facts .demographics_container .demographics_title h3,
+body.tax-destinations #quick_facts .brief_history_container .brief_history_title h3,
+body.tax-destinations #quick_facts .geography_container .geography_title h3 {
+    margin-bottom: 10px;
+    color: #000;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+body.tax-destinations #quick_facts .brief_history_container .brief_history_section ul li::before {
+    left: 0;
+}
+
+body.tax-destinations #quick_facts .brief_history_container .brief_history_section ul li,
+body.tax-destinations #quick_facts .demographics_container .destination_section ul li,
+body.tax-destinations #quick_facts .geography_container .geography_section ul li {
+	margin-bottom: 8px;
+	margin-top: 8px;
+	font-size: 17px;
+	line-height: 26px;
+}
+
+body.tax-destinations .laxury_accomodations_list .laxury_accomodations_container .col {
+    margin-bottom: 15px;
+    margin-right: 0px;
+    padding: 0;
+    width: 100%;
+}
+
+body.tax-destinations .laxury_accomodations_list .laxury_accomodations_container img{
+	min-height: 210px;
+}
+body.tax-destinations .laxury_accomodations_list .laxury_accomodations_container .col .laxury_accomodations_content .laxury_accomodations_title h3 {
+	font-size: 16px;
+	letter-spacing: 2px;
+	width: 205px;
+}
+
+body.tax-destinations .laxury_accomodations_list .laxury_accomodations_container .laxury_accomodations_content .laxury_accomodations_title {
+	padding: 0px;
+}
+
+body.tax-destinations .laxury_accomodations_list .laxury_accomodations_container .laxury_accomodations_content .laxury_accomodations_excerpt {
+	padding: 0px;
+}
+
+body.tax-destinations #primary .content_section p{
+	padding-left:0px;
+}
+.lightbox-description{
+	padding:10px 0px;
+}
+body.tax-destinations .laxury_accomodations_list .laxury_accomodations_container .col .laxury_accomodations_content .laxury_accomodations_excerpt p {
+    line-height: 20px;
+    margin-top: 5px;
+    height: unset;
+	margin-bottom: 0px;
+}
+.our_guides_title > h3 {
+    margin: 14px 0;
+}
+
+body.tax-destinations .top_page_desc .image_section {
+	text-align: center;
+	display: block !important;
+	float: none !important;
+}
+
+body.page-id-298 #china_host, body.page-id-298 #destination_guide, body.page-id-298 #experts {
+    margin-top: 20px;
+}
+
+.image_section .inner_image_section.col-sm-4 {
+    display: inline-block;
+    padding: 0;
+    vertical-align: middle;
+    width: 30%;
+}
+
+.tab-content .destination_guide_container,
+.tab-content .experts_posts_container,
+.tab-content .china_host_container {
+padding-top: 110px;
+}
+
+.our_philosophy_content_right p {
+	line-height: 23px;
+	font-size: 16px;
+	/*margin-bottom: 0px;
+	padding-bottom: 5px;*/
+}
+
+.our_philosophy_content_right {
+	padding: 0px;
+}
+
+body.destination_guide .imagine_post {
+	padding-bottom: 20px;
+}
+
+body.page-id-298 .giude_imagine_header {
+    padding-top: 24px !important;
+}
+
+body.page-id-298 .imagine_post {
+	padding-bottom: 0px !important;
+	padding-top: 5px !important;
+}
+
+body.page-id-298 .imagine_content .content_section,
+body.page-id-298 .imagine_content .content_section .our_guides_content {
+	font-size: 16px !important;
+	line-height: 23px !important;
+}
+
+body.page-id-298 #experts .giude_post .guides_post_row,
+body.page-id-298 .giude_post .guides_post_row {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+body.page-id-298 .imagine_content .image_section {
+	width: 110px;
+	height: 110px;
+}
+
+body.page-id-298 .giude_description {
+	padding-bottom: 30px;
+}
+
+body.page-id-298 .imagine_content .image_section img {
+	height: 55px;
+	margin-top: 25px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+body.page-id-419 #bredacrumb-section {
+    font-size: 16px;
+    padding: 20px;
+}
+
+body.page-id-52 #whole-comment-area {
+    padding: 55px 20px 30px;
+    margin: 15px 0px;
+}
+
+body.page-id-52 #whole-comment-area #inner-comment-area {
+	padding: 0px !important;
+}
+
+body.page-id-298 .imagine_content {
+	height: auto;
+	overflow: hidden;
+	padding: 10px 0px;
+	vertical-align: top;
+	margin-bottom: 5px !important;
+	width: 100% !important;
+}
+
+.page-id-52 #associations_awards_posts .about_us_section {
+    height: auto !important;
+    min-height: auto !important;
+}
+
+.page-id-52 #associations_awards_posts .about_us_associations_awards_image {
+    height: auto;
+    width: 25.8% !important;
+}
+
+body.page-id-52 #associations_awards_posts .about_us_associations_awards_content {
+    padding: 0px 24px 24px;
+    margin-top: 0px;
+    font-size: 16px;
+	line-height: 23px;
+}
+
+#working_with_us .col-sm-12,
+#working_with_us .col-sm-6 {
+    padding: 0px !important;
+}
+
+body.page-id-310 #inner-page-title .page-title {
+    padding: 0px;
+    margin-top: 10px;
+}
+
+#inner-dream-area .col-sm-3 p,
+.our_china_host p,    
+#inner-private-jet-tours-area section,
+.our_philosophy_lists_row .our_philosophy_content,
+.our_philosophy_toc_container ul li a,
+body.page-id-304 .tours_jets_whole_section .private_tour_content,
+#accordion .faq_row .faq_question,
+#accordion .faq_row .faq_answer,
+.page-id-52 #social_contribution .left_section p,  
+body.page-id-298 .destination_guide_container .destination_guide_content, 
+body.page-id-298 .experts_posts_container .experts_posts_content,
+body.page-id-298 .china_host_container .our_guides_content,
+body.page-id-52 #social_contribution .left_section p,
+body.page-id-52 #working_with_us .short_des,
+body.page-id-298 .right_description,
+body.page-id-298 .left_description,
+body.page-id-304 .content_section_right,
+body.page-id-52 #inner-comment-bottom-area p,
+body.page-id-52 #working_with_us .left_section,
+body.page-id-52 #working_with_us .right_section{
+    font-size: 16px;
+    line-height: 24px;
+}
+
+body.page-id-304 .content_section_right h3,
+body.page-id-553 .right_content_area .faq_header h2,
+body.page-id-300 .right_content_area .faq_header h2,
+.page-id-52 #inner-comment-bottom-area .widget-title,
+.page-id-52 #working_with_us .widget-title,
+.page-id-52 #social_contribution .widget-title,
+body.page-id-298 .destination_guide_container h3,
+body.page-id-298 .experts_posts_container h3,
+body.page-id-298 .china_host_container h3 {
+font-size: 18px !important;
+line-height: 28px;
+margin-bottom: 8px;
+letter-spacing: 4px !important;
+}
+
+body.page-id-52 #inner-comment-bottom-area .widget-title,
+body.page-id-52 #working_with_us .widget-title,
+body.page-id-52 #social_contribution .widget-title {
+	padding: 10px 0 0px 0;
+}
+
+body.page-id-52 #associations_awards_posts {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#whole-blogpost-area #text-22 h2.widget-title {
+    font-size: 24px !important;
+    letter-spacing: 3px !important;
+    padding-top: 18px !important;
+}
+
+#whole-blogpost-area #text-20 h2.widget-title,
+#whole-blogpost-area #text-21 h2.widget-title {
+    font-size: 22px !important;
+    letter-spacing: 3px !important;
+    padding-top: 23px !important;
+}
+#inner-private-jet-tours-area section .textwidget p {
+	font-size: 17px;
+	padding-left: 20px;
+}
+
+#inner-footer-top-area section h2.widget-title {
+	font-size: 22px !important;
+	line-height: 29px;
+	margin-bottom: 10px;
+	letter-spacing: 4px !important;
+}
+
+body.page-id-52 #working_with_us .short_des,
+body.page-id-52 #inner-comment-bottom-area p {
+	padding: 0px;
+}
+
+#inner-private-jet-tours-area section,
+body.page-id-304 .tours_jets_whole_section .private_tour_content {
+	font-size: 13px;
+    line-height: 25px;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_journeys_feature .tours_tour_price {
+	margin-top: 15px;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_itinerary .itinerary_title h4,
+body.page-id-304 .tours_jets_whole_section .tours_journeys_feature .journeys_feature_title h4,
+body.page-id-304 .tours_jets_whole_section .tours_tour_price .tour_price_title h4,
+body.page-id-304 .tours_jets_whole_section .tours_what_includes .what_title h4 {
+	font-size: 19px;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_journeys_feature ul li,
+body.page-id-304 .tours_jets_whole_section .tours_what_includes ul li {
+	font-size: 13px;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_journeys_feature ul,
+body.page-id-304 .tours_jets_whole_section .tours_what_includes ul {
+	padding: 0px 0px 0px 20px;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_title {
+    font-size: 20px;
+	line-height: 28px;
+}
+
+body.page-id-304 .tours_jets_whole_section .private_tour_title_date{
+	padding:15px 0px;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_date {
+font-size: 15px;
+padding-top: 3px;
+}
+
+body.page-id-304 .tours_jets_whole_section .private_tour_content,
+body.page-id-52 #whole-content-area .right_content_area{
+	padding-right:0px;
+}
+
+#bredacrumb-section {
+    padding: 10px 15px 5px !important;
+    width: 100%;
+    margin-top: 0;
+}
+
+body.tax-destinations #bredacrumb-section {
+    padding-top: 22px !important;
+    width: 100%;
+    margin-top: 0;
+    padding-left: 0px !important;
+}
+
+body.tax-destinations .navigation-section {
+    display: block;
+    position: absolute;
+    top: 3px;
+    right: 0;
+}
+
+body.page-id-553 .view_all a,
+body.page-id-300 .view_all a {
+    display: inline-block;
+	line-height: 25px;
+    vertical-align: middle;
+    padding: 5px 45px 2px !important;
+}
+
+body.page-id-553 button,
+body.page-id-300 button {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 5px 55px 2px !important;
+    margin: auto;
+	line-height: 25px;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_itinerary .day_section .tours_day {
+    font-size: 16px;
+    margin-top: -10px;
+    margin-left: 1px;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_itinerary .day_section {
+    margin-left: 16px;
+    padding: 43px 0 0 30px;
+    width: 30px;
+}
+
+body.page-id-300 .wpforms-field-large.wpforms-field-required {
+    padding: 5px 6px;
+	overflow: visible;
+	vertical-align: middle;
+}
+
+body.page-id-300 #wpforms-365 input,
+body.page-id-300 #wpforms-365 textarea,
+body.page-id-553 #wpforms-386 input,
+body.page-id-553 .wpforms-field-large.wpforms-field-required {
+    resize: none;
+	position: relative;
+    font-family: 'NeutraText-BookItalic';
+    font-size: 18px;
+	line-height: 10px !important;
+	vertical-align: middle;
+}
+
+body.page-id-300 #wpforms-365 textarea,
+body.page-id-553 #wpforms-386 textarea {
+	padding-top: 10px !important;
+}
+
+body.page-id-553 #wpforms-386 input::placeholder,
+body.page-id-553 .wpforms-field-large.wpforms-field-required::placeholder {
+	font-size: 18px;
+	position: relative;
+	font-family: 'NeutraText-BookItalic';
+	text-shadow: none;
+	vertical-align: middle;
+}
+
+body.page-id-553 .left_content_area .tab_section ul li a,
+body.page-id-300 .left_content_area .tab_section ul li a {
+    padding: 2px 15px 0px !important;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_itinerary .day_section .day h3 {
+    font-size: 10px;
+}
+ 
+body.tax-destinations .navigation-section a {
+    display: table;
+    font-size: 25px;
+    color: #000;
+    line-height: 0px;
+    cursor: pointer;
+}
+
+body.tax-destinations .navigation-section a i {
+    line-height: 0px;
+}
+
+body.tax-destinations .navigation-section a.btnPrevious {
+    margin-right: 15px;
+    margin-bottom: 5px;
+}
+
+body.tax-destinations .quick_fact_section ul.nav-tabs li a {
+	display: none;
+}
+
+#custom_html-9,
+body.page-id-553 #custom_html-9 {
+    margin: 0px 0px 0px 0px;
+}
+
+body.page-id-304 #inner-page-title p {
+line-height: 23px;
+padding: 0px 15px;
+width: 100%;
+}
+
+body.page-id-304 .content_section_left {
+    width: 100%;
+    padding: 0px 15px;
+}
+
+body.page-id-304 .content_section_right {
+    padding: 10px 15px;
+}
+
+body.page-id-304 .content_section_right span.title_border.
+body.page-id-304 .tours_jets_whole_section .private_tour_title_date span.title_border {
+	margin-top: 0px;
+	width: 56px;
+}
+
+body.page-id-304 .content_section_right .tours_jets_row {
+	margin-bottom: 20px;
+}
+
+body.page-id-304 #top_content_area .content_section_right .tours_title {
+	font-size: 16px;
+}
+
+body.page-id-304 .tours_jets_whole_section {
+	padding: 30px 0;
+}
+
+body.page-id-304 .tours_jets_whole_section:nth-child(2n) {
+	padding-top: 30px;
+}
+
+body.page-id-304 .tours_jets_whole_section .traveling_styles_image_one,
+body.page-id-304 .tours_jets_whole_section .traveling_styles_image_two {
+    margin-bottom: 5px;
+    padding-left: 0px;
+}
+
+body.page-id-52 #whole-content-area {
+    margin-top: 0px;
+}
+
+body.page-id-52 #top_content_area {
+    padding: 0px;
+}
+
+body.tax-destinations .recommended_destinations_list .inner,
+body.tax-destinations #our_guide_content_area .right_section,
+body.tax-destinations #our_guide_content_area .left_section, 
+.tax-destinations .top_content,
+body.page-id-298 #china_host .giude_post .guides_post_row {
+    padding: 0px;
+}
+
+body.page-id-298 #experts .giude_post .guides_post_row {
+	 padding-bottom: 100px;
+}
+
+body.page-id-298 .giude_post .guides_post_row {
+	padding-bottom: 100px;
+}
+
+body.page-id-298 #china_host .giude_post .guides_post_row {
+    padding-bottom: 100px;
+}
+
+body.page-id-298 #china_host.active .giude_post .guides_post_row:nth-last-child(1) {
+	padding-bottom: 0px !important;
+}
+
+body.page-id-298 .giude_post .image_section {
+	padding: 0px;
+	margin: auto;
+	width: 110px !important;
+}
+
+.traveling_styles_image_one img  {
+	border-radius: 4px 4px 0px 0px;
+}
+.traveling_styles_image_two img {
+	border-radius:  0px 0px 4px 4px;
+}
+
+body.page-id-298 .giude_post .content_section {
+    padding: 0px;
+}
+
+body.page-id-298 .imagine_container {
+    padding-bottom: 20px;
+}
+body.page-id-553 #whole_content_bottom_area,
+body.page-id-300 #whole_content_bottom_area{
+	padding:25px 0;
+}
+
+body.page-id-298 #whole-footer-top-area,
+body.china_host #whole-footer-top-area,
+#whole-footer-top-area{
+    padding: 40px 15px !important;
+}
+
+body.tax-destinations .inner_recommended_destinations_list {
+    padding: 0px;
+    margin-top: 44px;
+}
+
+body.tax-destinations .inner_recommended_destinations_list ul li .destinations_desc {
+    min-height: inherit;
+    padding: 15px;
+}
+
+body.tax-destinations .inner_recommended_destinations_list ul li h4.destinations_title a {
+    font-size: 16px;
+}
+
+body.tax-destinations .inner_recommended_destinations_list ul li .destinations_desc p {
+	font-size: 16px;
+	margin-top: 8px;
+	line-height: 23px;
+}
+
+body.tax-destinations .inner_recommended_destinations_list ul li {
+    margin-bottom: 15px;
+    margin-right: 0;
+    width: 100%;
+}
+
+#taxonomy_banner_area {
+    min-height: inherit;
+}
+
+#inner-page-title span.title_border, 
+#header-text-area span.title_border {
+    margin-left: auto;
+    width: 43px;
+}
+
+#inner-travelling-concierge-area section h2.widget-title {
+    color: #333333;
+    padding: 10px 0 0px;
+    text-align: center;
+}
+
+.our_china_host .our_guides_container {
+	text-align: center;
+}
+
+.our_china_host .our_guides_container .col-sm-3 {
+    padding: 0px 5px;
+    width: 70px;
+    margin: auto;
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+body.page-id-598 #inner-travelling-concierge-area section h2.widget-title,
+#experiences_area .header_section h1,
+#destination_area .header_section h1 {
+    font-size: 24px !important;
+    letter-spacing: 5px !important;
+    line-height: 35px;
+    padding: 0px 10px;
+    font-weight: 700;
+}
+
+.our_china_host .col-sm-12 h3.sub_title {
+    margin-top: -15px;
+	font-size: 18px;
+}
+
+#inner-dream-area .col-sm-3::after {
+    height: 105px;
+}
+
+#inner-dream-area .col-sm-3.journey_section::after {
+    height: auto;
+}
+
+body.page-id-553 .left_content_area .tab_section,
+body.page-id-300 .left_content_area .tab_section {
+    padding-bottom: 35px;
+}
+
+body.page-id-304 .tours_what_includes {
+	margin-top: 0px;
+	padding: 0px 0px 30px;
+}
+
+#inner-dream-area .col-sm-3 h3 {
+	margin: 25px 0 12px;
+	font-size: 26px;
+	font-weight: unset;
+}
+.home .our_philosophy_lists_container .our_philosophy_inquire a {
+	padding: 5px 0px;
+}
+#inner-dream-area .col-sm-3 p {
+    padding: 0px 23px;
+    line-height: 23px;
+}
+
+#wpforms-form-386 .wpforms-field-checkbox ul {
+	padding-right: 0px;
+}
+
+#wpforms-form-386 .wpforms-field-checkbox ul li {
+    width: 50%;
+}
+
+#wpforms-form-386 #wpforms-386-field_12-container.wpforms-field-checkbox ul li {
+    width: auto;
+}
+
+.wpforms-form .wpforms-field-checkbox ul li label {
+    margin-left: 0;
+    font-size: 14px;
+	line-height: 20px;
+}
+
+body.page-id-553 #accordion,
+body.page-id-300 #accordion {
+	margin-top: 20px;
+}
+
+#primary .bredacrumb-section,
+.page-id-580 .travel_agent_lists_row,
+.page-id-580 #content_top_area {
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.tax-destinations .top_page_desc .content_section {
+	margin-left: 0px;
+	padding-top: 45px;
+}
+
+.our_philosophy.our_philosophy_lists_row .our_philosophy_title {
+	width: unset;
+}
+.our_philosophy_lists_row .our_philosophy_title {
+	padding: 0px 0;
+	width: 272px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.our_philosophy_lists_row .our_philosophy_title a {
+      font-size: 20px;
+    letter-spacing: 5px;
+    overflow-wrap: break-word;
+}
+
+.page-id-580 .travel_agent_lists_row {
+    width: 100% !important;
+}
+
+.recent_blog_lists_row .recent_blog_created_date,
+.popular_blog_lists_row .popular_blog_created_date {
+    font-size: 11px;
+    margin-bottom: 0px;
+}
+
+#content-area section h2.widget-title::after {
+    bottom: -20px;
+    height: 3px;
+}
+
+#whole-blogpost-area section h2.widget-title::after {
+    bottom: -20px;
+    width: 42px;
+}
+
+#whole-blogpost-area {
+    padding: 14px 0 10px;
+}
+
+#whole-blogpost-area #text-22 h2.widget-title {
+    margin-bottom: 10px;
+    font-weight: 800;
+}
+
+.recent_blog_lists_row,
+.popular_blog_lists_row {
+	margin-bottom: 37px;
+}
+
+.popular_blog_lists_row .popular_blog_title h3 a, 
+.recent_blog_lists_row .recent_blog_title h3 a {
+    font-size: 19px;
+}
+
+.recent_blog_lists_row .popular_blog_desc,
+.popular_blog_lists_row .popular_blog_desc {
+	font-size: 16px;
+}
+
+#content-area #whole-footer-top-area h2.widget-title::after {
+    bottom: -10px;
+    width: 45px;
+    background: #ffffff;
+}
+
+#inner-destination-right-area section .front_destinations_list ul li a.title {
+	font-size: 21px;
+}
+
+#inner-destination-right-area section .front_destinations_list .view_all_destination a {
+	font-size: 18px;
+	padding: 15px 22px;
+}
+
+body.page-id-304 .content_section_left p {
+font-size: 16px;
+line-height: 23px;
+margin-bottom: 14px;
+}
+
+#inner-page-title .page-title{
+	letter-spacing: 3px;
+    font-size: 26px;
+	margin-top:20px;
+	padding: 0px 5px;
+}
+
+body.page-id-580 #inner-page-title .page-title {
+letter-spacing: 3px;
+font-size: 26px;
+margin-top: 23px;
+padding: 0px;
+}
+
+body.tax-destinations #inner-page-title .page-title,
+.page-id-64 #inner-page-title .page-title {
+	letter-spacing: 3px;
+	font-size: 26px;
+	margin-top: 20px;
+	padding: 0px 5px;
+}
+
+body.tax-destinations #our_guide_content_area .desc_section p {
+	font-size:15px;
+	line-height: 27px;
+}
+
+#inner-page-title p{
+    font-size: 18px !important;
+    line-height: 22px;
+    padding: 0px;
+}
+
+body.tax-destinations #our_guide_content_area .our_guides_title h3,
+body.tax-destinations #our_guide_content_area .our_host_guides_title h3 {
+	font-size: 17px;
+	margin-top: 24px;
+	margin-bottom: 0px;
+}
+
+
+
+#newsletterwidget-3 form input.tnp-submit {
+	background-size: 30%;
+}
+
+#inner-footer-top-area section {
+    border-bottom: 1px solid #919294;
+    border-right: 0px;
+}
+
+#inner-footer-top-area #text-12,
+#inner-footer-top-area #newsletterwidget-3,
+#inner-footer-top-area #text-13,
+#inner-footer-top-area #text-14,
+#inner-footer-top-area #text-15,
+#inner-footer-top-area #text-16 {
+	height: auto !important;
+}
+
+#inner-footer-top-area {
+	width: 100%;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+}
+
+#inner-footer-top-area #text-12 {
+	padding: 21px 15px !important;
+}
+
+#inner-footer-top-area #text-13 {
+	padding: 20px 15px !important;
+}
+
+#inner-footer-top-area #text-14 {
+	padding: 20px 15px !important;
+}
+
+#inner-footer-top-area #text-15 {
+	padding: 20px 15px !important;
+}
+
+#inner-footer-top-area #text-16 {
+	padding: 20px 15px !important;
+}
+
+#inner-footer-top-area #newsletterwidget-3 {
+	padding: 20px 15px 36px !important;
+}
+
+#newsletterwidget-3,
+#inner-footer-top-area section p,
+#inner-footer-top-area #text-15 a.blog_link {
+	font-size: 16px;
+	line-height: 23px;
+	display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer-bootom-left p {
+    font-size: 14px;
+    padding: 0px;
+    text-align: center;
+}
+
+.footer-bootom-left,
+.footer-bottom-right {
+    text-align: center;
+    padding: 0px;
+}
+
+.footer-bottom-right ul {
+    display: inline-block;
+}
+
+#custom_html-2 .footer-bottom-right ul li {
+    padding-left: 0px;
+    padding-right: 15px;
+}
+
+#custom_html-8 {
+	margin: 0px;
+}
+
+#custom_html-2 ul li {
+	font-size: 16px;
+	margin-right: 0px;
+	display: block;
+}
+
+.footer-bottom-right ul li a {
+    font-size: 14px !important;
+    padding: 0 5px;
+}
+
+body.page-id-553 #content_top_area .left_content_area p, 
+body.page-id-300 #content_top_area .left_content_area p {
+    padding: 0 0px 0 0;
+	font-size: 17px;
+	line-height: 29px;
+}
+
+body.page-id-553 #whole_content_bottom_area .right_content_area.col-sm-5,
+body.page-id-300 #whole_content_bottom_area .right_content_area.col-sm-5 {
+	padding-top: 40px;
+	padding-right: 0;
+	padding-left: 0;
+}
+body.page-id-52 #whole-content-area .right_content_area {
+    padding-left: 0px;
+}
+
+#inner_about_us_container{
+	padding-top:0px !important;
+    padding-bottom: 0px;
+}
+
+body.page-id-310 #whole_content_bottom_area a.accordion-toggle,
+body.page-id-310 #whole_content_bottom_area a.accordion-toggle.collapsed{
+	font-size: 16px !important;
+}
+
+.our_philosophy_content_container .our_philosophy_title {
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 2px;
+	margin-bottom: 30px;
+}
+
+.our_philosophy_content_container .our_philosophy_title::after {
+	bottom: -17px;
+	width: 54px;
+}
+
+body.page-id-419 .our_philosophy_content {
+	font-size: 16px;
+    line-height: 25px;
+    padding: 5px 0px;
+    margin-top: 0px;
+}
+
+body.single-blog #inner_blog_content{
+    padding: 20px 15px 20px 15px !important;
+    top: 0px !important;
+}
+
+body.page-id-580 .content_area {
+    padding: 0px 15px;
+    padding-bottom: 50px;
+}
+
+.page-id-598 #content_top_area .main_content{
+	padding:0 15px;
+}
+
+.blog_post_content_area .wp-bp-content-width {
+    padding-right: 15px;
+	width:100%;
+	margin-left: 0px;
+}
+body.post-type-archive-blog .inner-sidebar-width {
+	width: 100%;
+	padding: 0;
+	border-left: 0px;
+}
+body.post-type-archive-blog .wp-bp-sidebar-width {
+	width: 100%;
+	padding-right: 15px;
+	border-left: 0px;
+}
+
+.our_philosophy_lists_row .our_philosophy_title::after {
+    bottom: -18px;
+    width: 40px;
+}
+
+.wp-bp-sidebar-width {
+    padding-left: 15px;
+    width: 100%;
+    padding-right: 15px;
+	padding-bottom: 30px;
+}
+
+body.tax-destinations .our_guides_whole_section a.destination_help_link,
+body.tax-destinations .top_page_desc .image_section img,
+body.post-type-archive-blog .blog_post_content_area,
+body.page-id-310 #inner-page-title .page-title,
+.whole_banner_page_title .banner_page_title p,
+body.tax-destinations .itinerary_right_mark_section,
+body.tax-destinations .custom_itineraries_content,
+body.tax-destinations #whole-comment-area .comment_content,
+body.page-id-580 select,
+body.page-id-580 #contents,
+body.single-blog .blog_lists_container{
+	width:100%;	
+}
+
+body.tax-destinations .custom_itineraries_content {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+body.tax-destinations .itinerary_right_mark_section .description_section {
+	font-size: 17px;
+}
+
+body.tax-destinations .laxury_accomodations_list .laxury_accomodations_container .laxury_accomodations_content .laxury_inner_content {
+	padding: 15px;
+}
+
+.inner-sidebar-width {
+	width:100%;	
+	padding: 0px;
+}
+
+body.single-blog .inner-sidebar-width {
+padding-top: 20px;	
+}
+
+body.single-blog .navigation a {
+	margin: 0px 30px 0px 0px;
+	font-size: 12px;
+}
+
+#inner-private-jet-tours-area p.description_text {
+	font-size:18px !important;
+}
+
+body.page-id-580 #contents h1.header_title {   
+    letter-spacing: 1px;
+    font-size: 16px;
+    line-height: 24px;
+    padding-right: 0;
+}
+
+body.page-id-598 #content_top_area .content_section p {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+#destination_area .front_destinations_list ul li img {
+	height: auto;
+}
+
+body.page-id-598 #content_top_area {
+	margin-bottom: 60px;
+}
+
+body.tax-destinations .whole_fine_dining_section .fine_dining_container ul li:nth-child(1) img {
+	border-radius: 4px 4px 0px 0px;
+}
+
+body.tax-destinations .whole_fine_dining_section .fine_dining_container ul li:nth-last-child(1) img {
+	border-radius: 0px 0px 4px 4px;
+}
+
+body.page-id-598 #inner-travelling-concierge-area section h2.widget-title {
+   margin-top: 25px;
+   margin-bottom: 67px !important;
+} 
+
+body.page-id-598 #destination_area {
+	padding-top: 10px;
+	padding-bottom: 40px;
+}
+
+body.page-id-598 #traveling_styles_area .header_section h1,
+body.page-id-598 #experiences_area .header_section h1,
+body.page-id-598 #destination_area .header_section h1 {
+	font-size: 18px;
+	line-height: 28px;
+	margin-bottom: 8px !important;
+}
+
+body.page-id-598 .our_china_host p {
+	line-height: 28px;
+	margin-bottom: 20px;
+}
+
+body.page-id-598 .our_china_host .learn_more {
+	padding: 0px 5%;
+}
+
+body.page-id-598 #traveling_styles_area .page span.title_border,
+body.page-id-598 #destination_area .page span.title_border,
+body.page-id-598 .inner_experiences_area .page span.title_border {
+	margin-top: 0;
+}
+
+body.page-id-598 #traveling_styles_area .header_section p,
+body.page-id-598 #destination_area .header_section p,
+body.page-id-598 #experiences_area .header_section p {
+	margin-bottom: 45px;
+	line-height: 26px;
+}
+
+body.page-id-598 #destination_area .front_destinations_list ul li .gallery_title_area h4 {
+	font-size: 18px;
+}
+
+#experiences_area {
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+
+#experiences_area .content_list .experiences_lists_row .experiences_content_area {
+	font-size: 16px;
+	line-height: 24px;
+}
+
+body.page-id-580 .travel_agent_post .travel_agent_sub_title,
+body.page-id-580 .travel_agent_post .travel_agent_title {
+	font-size: 18px;
+}
+
+body.page-id-580 .travel_agent_post .travel_agent_email,
+body.page-id-580 .travel_agent_post .travel_agent_phone {
+	font-size: 17px;
+}
+
+body.page-id-580 .travel_agent_post .travel_agent_content {
+    padding: 35px 0px 30px 0px;
+    line-height: 28px;
+    font-size: 18px;
+}
+
+#traveling_styles_area .content_list .traveling_styles_content_title {
+	font-size: 20px;
+}
+
+#traveling_styles_area .content_list .traveling_styles_content {
+	line-height: 24px;
+	font-size: 17px;
+}
+
+#traveling_styles_area {
+	padding-bottom: 55px;
+	padding-top: 10px;
+}
+
+body.page-id-580 .content_area p {
+    font-size: 16px;
+    line-height: 24px;
+    padding: 0px 0px;
+}
+
+body.page-id-298 .left_description {
+	padding: 0;
+}
+body.page-id-298 .right_description {
+	padding: 0;
+}
+
+body.tax-destinations .itinerary_right_mark_section { 
+	margin-top:30px;
+    padding-top: 30px;
+	margin-left: 0px;
+}
+
+.close-modal {
+	background-size: 30px;
+}
+
+.lightbox-navigation span.lightbox-navigation__counter {
+	font-size: 12px;
+}
+
+body.tax-destinations .quick_fact_section .tab-container {
+    position: relative;
+}
+
+body.tax-destinations #our_guide_content_area .right_section .image_section {
+    text-align: center;
+}
+
+body.tax-destinations .our_guides_whole_section h2.widget-title {
+    font-size: 23px;
+    letter-spacing: 5px;
+    padding-bottom: 0px;
+}
+
+body.tax-destinations .itinerary_right_mark_section .day_section{
+	margin-top: 5px;
+font-size: 10px;
+text-align: center;
+}
+
+body.tax-destinations .itinerary_right_mark_section .day_section span {
+font-size: 17px;
+margin-top: -5px;	
+}
+
+body.tax-destinations .itinerary_right_mark_section .destination_name_section {    
+    letter-spacing: 0px;
+    padding-right: 0px;
+    font-size: 17px;
+}
+
+#wpforms-386-field_3-container, 
+#wpforms-386-field_4-container {
+	width: 100%;
+}
+
+body.tax-destinations #gallery-container .gallery-item .highlights_title h3{   
+    font-size: 20px;   
+    margin-right: 0px;
+    letter-spacing: 2px;   
+}
+
+body.tax-destinations #gallery-container .gallery-item .highlights_title span.read_more_design {
+	width: 24px;
+}
+
+body.tax-destinations .highlights_list .header_section p{
+	margin-bottom: 35px;
+	letter-spacing: 0px;
+}
+
+body.tax-destinations .highlights_list h2.widget-title{
+	letter-spacing: 5px;
+}
+
+body.tax-destinations #gallery-container .gallery-item .highlights_title{
+	padding:10px 0;
+}
+
+body.tax-destinations #whole_custom_itineraries_area h2.widget-title,
+body.tax-destinations #whole-comment-area .comment_content p:last-child{
+	margin-bottom:30px;
+}
+
+body.tax-destinations #inner-page-title p{
+	width:unset;
+}
+
+body.tax-destinations #whole_custom_itineraries_area .header_section p{
+	letter-spacing: 0px;
+	margin-bottom: 19px !important;
+    font-size: 16px;
+}
+
+body.tax-destinations .custom_itineraries_content {
+	line-height: 26px;
+}
+
+body.tax-destinations #our_guide_content_area {   
+    padding-top: 50px;
+}
+
+body.page-id-580 #content_top_area ,
+.inner_social_contribution,
+.inner_working_with_us {
+	margin: auto;
+	width: 100%;
+}
+
+#s,
+.wp-bp-sidebar-width .featured_post_list,
+.wp-bp-sidebar-width .destinations_list, 
+.wp-bp-sidebar-width .blog_categories_list {
+	width: 100%;
+}
+
+#searchsubmit {    
+    left: auto;
+width: 40px;
+top: 0px;
+right: 0px;
+}
+article {
+    width: 100% !important;
+    margin: auto;
+    padding: 15px;
+}
+
+.search-results h1{
+	padding: 15px;
+	font-size: 26px;
+}
+
+body.tax-destinations #quick_facts .brief_history_container .brief_history_section {
+    background-position: 0.7% 0%;
+}
+
+body.tax-destinations .itinerary_right_mark_section .row_section_area::before, 
+body.tax-destinations #row_section-1::before {
+	top: 39px;
+}
+
+body.tax-destinations .itinerary_right_mark_section .row_section_area::after, 
+body.tax-destinations #row_section-1::after {
+	top: 24px;
+}
+
+body.page-id-298 #whole-content-area, body.page-id-52 #whole-content-area {
+    margin-top: 0px;   
+}
+
+.page-id-304 .tours_jets_row .tours_itinerary,
+body.page-id-304 .tours_jets_whole_section .whole_tours_itinerary_area .tours_itinerary {
+	width: 100%;
+	padding: 0px 0px;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_itinerary .tours_day_title {
+	line-height: 19px;
+	font-size: 14px;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_itinerary .tours_day_descriptions {
+	font-size: 13px;
+	line-height: 23px;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_itinerary .btn-default {
+	font-size: 12px;
+	padding: 7px 45px;
+}
+
+body.page-id-304 .tour_row_1 .private_jet_inquire a,
+body.page-id-304 .tours_jets_whole_section .private_jet_inquire a {
+	font-size: 12px;
+	padding: 0px 45px;
+}
+
+body.page-id-52 #whole-content-area .left_content_area p {
+	margin-bottom: 20px;
+	line-height: 23px;
+	font-size: 16px;
+}
+
+.page-id-304 .tours_jets_row .tours_itinerary .day_section {
+    float: left;
+    padding-left: 0 !important;
+    width: 95px;
+}
+
+body.page-id-304 .tours_jets_whole_section #tours_itinerary_box {
+    background-position: 67px 0;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_itinerary .itinerary-row::after {
+    left: 50px;
+    background-size: 42%;
+}
+
+body.page-id-304 .tours_jets_whole_section .tours_itinerary #itinerary-row-1::after {
+    left: 50px;
+}
+
+.page-id-304 .tours_jets_row .tours_itinerary .title_des_section {
+    padding-left: 104px !important;
+}
+
+
+body.page-id-64 #whole-content-area .content_left_area p,
+body.tax-destinations .top_page_desc {
+    line-height: 24px;
+    font-size: 16px;
+}
+
+body.page-id-64 #whole-content-area .content_left_area h3 {
+	font-size: 18px;
+	line-height: 24px;
+}
+
+body.page-id-64 #top_content_area {    
+    margin-top: 0px;
+	padding: 0 15px !important;
+}
+
+body.page-id-553 #whole_content_bottom_area a.accordion-toggle,
+body.page-id-300 #whole_content_bottom_area a.accordion-toggle {
+  padding: 8px 0 8px 16px;
+  font-size: 16px;
+}
+
+body.page-id-553 #whole_content_bottom_area a.accordion-toggle.collapsed,
+body.page-id-300 #whole_content_bottom_area a.accordion-toggle.collapsed {
+  padding: 8px 0 8px 16px;
+  font-size: 16px;
+}
+body.page-id-553 #whole_content_bottom_area .left_content_area, 
+body.page-id-300 #whole_content_bottom_area .left_content_area {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.lightbox-container img.lightbox-image,
+body.tax-destinations #gallery-container .gallery-item .highlights_image img {
+  height: auto;
+  width: 100%;
+}
+
+body.page-id-52 #working_with_us,
+body.page-id-52 #social_contribution {
+  padding-top: 15px !important;
+  padding-bottom: 25px;
+}
+
+body.page-id-52 #social_contribution .text-center {
+	padding-bottom: 0px;
+}
+
+.page-id-52 #working_with_us .container,
+.page-id-52 #social_contribution .container {
+  padding: 0px;
+}
+
+body.page-id-52 #working_with_us .right_section h2,
+body.page-id-52 #working_with_us .left_section h2 {
+	font-size: 19px;
+	padding: 20px 0 10px;
+}
+
+.page-id-52 #associations_awards_posts .about_us_associations_awards_title {
+	font-size: 18px !important;
+	letter-spacing: 2px !important;
+}
+
+body.page-id-52 #associations_awards_posts .about_us_associations_awards_row {
+  margin-bottom: 15px;
+  margin-right: 0px;
+}
+
+body.page-id-52 #social_contribution .left_section {
+	padding: 0px;
+}
+
+#whole-comment-area {
+  margin: 0px;
+  padding: 40px 0px 0px;
+}
+
+body.page-id-298 #whole-comment-area {
+	padding: 40px 0px;	
+}
+
+body.page-id-298 .giude_imagine_header p.opportunity_head {
+	font-size: 15px;
+	line-height: 23px;
+}
+
+#inner-footer-top-area section#text-14,
+#inner-footer-top-area section#text-15 {
+	border-bottom: 1px solid #919294 !important;
+}
+
+#inner-footer-top-area section#text-14 h2.widget-title {
+    font-size: 15px !important;
+    line-height: 23px;
+}
+
+body.page-id-298 .page_content {
+	padding-bottom: 20px;
+}
+
+.page_content.container p,
+body.page-id-298 .page_content p {
+    font-size: 16px !important;
+	line-height: 24px;
+    width: 100%;
+	margin-bottom: 25px;
+	padding: 0px !important;
+}
+body.page-id-298 .left_description {
+    margin-bottom: 25px;
+}
+
+.lightbox-description .title {
+	font-size: 20px !important;
+	letter-spacing: 1px !important;
+	line-height: 16px;
+	margin-left: 15px !important;
+	word-spacing: 0 !important;
+}
+
+.lightbox-description .desc {
+	font-size: 15px !important;
+	margin-left: 15px !important;
+	margin-top: 15px !important;
+	line-height: 21px;
+}
+
+body.page-id-52 #whole-content-area .left_content_area {
+    padding-top: 0;
+	padding-right: 0px;
+
+}
+.our_philosophy_toc_container ul li {
+    float: none; 
+    text-align: center;
+    padding-right: 0px; 
+}
+
+#custom_itineraries_show_more,
+.show_buttton a.start_your_journey{
+	padding: 4px 0px;
+	width: 100%;
+}
+body.page-id-47 .our_china_host .learn_more a.destination_help_link {	
+	width: 100%;
+	padding: 3px 0px!important;
+}
+
+body.home #header-area{
+	padding:0px 15px;
+}
+
+body.page-id-64 #top_content_area .help_me_deside_btn a{
+	text-align: center;
+    margin: 0;
+    padding: 4px 30px;
+    width: 100%;
+}
+body.page-id-64 #top_content_area .help_me_deside_btn {
+	margin-bottom: 0px;
+	margin-top: 15px;
+}
+
+body.page-id-64 #content_top_area .destinations_page_category_list {
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+.our_philosophy.our_philosophy_lists_row{
+	padding: 35px 0px 45px;
+}
+body.page-id-598 .china_host_right_section,
+body.page-id-598 .china_host_left_section{
+	padding:0px 15px;
+}
+
+body.page-id-298 .comment_content {
+	background-size: 88%;
+	background-position: 16px 40px;
+}
+
+#experiences_area .content_list .experiences_lists_row .experiences_content_area {
+	font-size: 18px;
+	margin-right: 0px;
+	letter-spacing: 1px;
+	padding: 15px 5px;
+   
+}
+body.tax-destinations #quick_facts .demographics_container .destination_section,
+body.tax-destinations #quick_facts .brief_history_container .brief_history_section,
+body.tax-destinations #quick_facts .geography_container .geography_section {
+	display: unset;
+}
+.no_found {
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+body.tax-destinations .laxury_accomodations_list .laxury_accomodations_container .col .laxury_accomodations_content {
+	padding: 0px;
+	width: 100%;
+	background: none;
+}
+
+body.tax-destinations .laxury_accomodations_list .laxury_accomodations_container .laxury_accomodations_content .laxury_inner_content {
+	position: absolute;
+	bottom: 0px;
+	background: rgba(0, 0, 0, 0.62);
+}
+
+
+.custom_itineraries_show_more,
+body.page-id-298 #bredacrumb-section,
+body.page-id-298 .page_content,
+body.page-id-298 #content_top_area ul.nav-tabs,
+body.page-id-310 #content_top_area .left_content_area,
+body.page-id-64 #top_content_area .content_left_area {
+	width: 100%;
+}
+
+body.page-id-553 #content_top_area .left_content_area,
+body.page-id-300 #content_top_area .left_content_area {
+	width: 100%;
+	padding: 0px;
+}
+body.page-id-64 #top_content_area .content_left_area {
+	padding-left: 0px;
+	padding-right: 0;
+}
+
+.blog_post_content_area .blog_row .blog_image,
+body.single-blog .wp-bp-content-width .blog_row .image_width {
+width: 100%;
+position: relative;
+height: auto;
+min-height: auto;
+}
+body.single-blog .wp-bp-content-width .image_width img {
+max-height: 100% !important;
+}
+
+.blog_post_content_area .blog_row {
+	padding: 26px 15px 40px 15px;
+}
+
+body.single-blog .wp-bp-content-width {
+	width: 100%;
+}
+
+body.page-id-300 #content_top_area .right_content_area ,
+body.single-blog .navigation,
+.blog_post_content_area .blog_row .blog_image img,
+body.single-blog .wp-bp-content-width .image_width img {
+	width: 100%;
+	height: auto;
+}
+body.single-blog .navigation {
+ margin: 0;
+}
+body.single-blog .blog_lists_container .row {
+	width: 100%;
+}
+
+body.page-id-52 #associations_awards_posts .about_us_associations_awards_title {
+text-align: left;
+}
+
+.inner-header-menu ul li:last-child a {   
+    margin-right: 15px;
+	display: none;
+}
+body.blog-template-default.single-blog .share_button {
+position: fixed;
+width: 100%;
+bottom: 0;
+z-index: 999999;
+display: unset;
+left: unset;
+top: unset;
+}
+
+body.blog-template-default.single-blog .share_button .addtoany_list a.a2a_button_facebook {
+background: #2E5E99;
+margin-left: 20%;
+}
+body.blog-template-default.single-blog .share_button .addtoany_list a.a2a_button_twitter {
+background: #3DC3F3;
+}
+body.blog-template-default.single-blog .share_button .addtoany_list a.a2a_button_google_plus {
+background: #D73D32;
+}
+body.blog-template-default.single-blog .share_button .addtoany_list a.a2a_button_linkedin {
+background: #32A3E0;
+}
+
+body.blog-template-default.single-blog .share_button .addtoany_list a.addtoany_share {
+position: absolute;
+font-size: 0px;
+padding: 0px;
+bottom: 0;
+width: 23%;
+overflow: unset;
+top: unset;
+height: unset;
+cursor: default;
+left: -3%;
+background: #fff;
+padding-top: 5px;
+}
+
+body.blog-template-default.single-blog .share_button .addtoany_list span.a2a_count {
+text-align: center !important;
+width: unset !important;
+display: inline-block;
+}
+
+body.blog-template-default.single-blog .share_button .addtoany_list span.a2a_count span::after {
+	display: block;
+}
+
+body.tax-destinations .our_guides_whole_section a.destination_help_link, 
+body.tax-destinations .recommended_destinations_list a.destination_help_link, 
+body.tax-destinations .view_all_destination a, 
+body.tax-destinations .fine_dining_more_link a, 
+body.tax-destinations .our_guides_whole_section a.destination_help_link, 
+#custom_itineraries_show_more, 
+a.destination_help_link, 
+body.tax-destinations .laxury_accomodations_list .header_section a.destination_help_link {
+	display: block;
+	padding: 4px 0px;
+}
+
+body.tax-destinations .laxury_accomodations_list .header_section p {
+	line-height: 23px;
+}
+
+.blog_post_content_area .blog_row .blog_title h3 a {
+	font-size: 21px;
+}
+
+body.single-blog #inner_blog_content .blog_list_terms ul li ,
+body.single-blog #inner_blog_content .blog_list_author_time ul li,
+.blog_post_content_area .blog_row .blog_terms ul li ,
+.blog_post_content_area .blog_row .blog_author_time ul li {
+	font-size: 10px;
+	line-height: 10px;
+}
+
+.blog_post_content_area .blog_row .blog_short_desc {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+.blog_post_content_area .blog_row a {
+	font-size: 15px;
+}
+
+.blog_post_content_area .blog_row .blog_title a {
+	font-size: 19px;
+	padding-bottom: 0px;
+	line-height: 25px;
+}
+
+body.single-blog #inner_blog_content .blog_list_terms ,	
+.blog_post_content_area .blog_row .blog_terms {
+	margin-top: 0px;
+}
+
+body.single-blog #inner_blog_content #blog_details_paragraph {
+	margin-top: 20px;
+}
+body.single-blog #inner_blog_content #blog_details_paragraph p {
+	line-height: 23px;
+	margin-bottom: 0px;
+	font-size: 16px;
+}
+
+body.post-type-archive-blog .wp-bp-sidebar-width {
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.wp-bp-sidebar-width .featured_post_list h1, 
+.wp-bp-sidebar-width .destinations_list h1, 
+.wp-bp-sidebar-width .blog_categories_list h1 {
+	font-size: 18px;
+	padding-bottom: 16px;
+}
+ 
+.wp-bp-sidebar-width .blog_page_destinations_category_list ul li a,
+.wp-bp-sidebar-width .featured_post_list .featured_post_link a {
+	font-size: 15px;
+	line-height: 23px;
+	font-family: 'NeutraText-Book';
+}
+
+body.single-blog #inner_blog_content h3 {
+	font-size: 21px;
+}
+
+.wp-bp-sidebar-width .blog_categories_list {
+    margin-top: 30px;
+}
+
+.wp-bp-sidebar-width .destinations_list {
+	margin-top: 30px;
+}
+
+.wp-bp-sidebar-width .featured_post_list {
+	margin-top: 30px;
+}
+
+body.blog-template-default.single-blog .share_button .addtoany_list a {
+margin-bottom: 0;
+cursor: pointer;
+width: 20%;
+text-align: center;
+display: inline-block;
+padding: 2.5px;
+}
+body.blog-template-default.single-blog .share_button .addtoany_list a img {
+vertical-align: bottom !important;
+}
+
+
+
+}
+@media screen and (max-height: 450px) {
+.sidenav {
+padding-top: 15px;
+}
+.sidenav a{	
+color: white;
+}
+#whole-comment-area {
+  margin: 0px;
+}
+
+
+}
+
+
+@media only screen and (min-width:526px) and (max-width:767px){
+
+#wpforms-386-field_3-container select, #wpforms-386-field_4-container select {
+	background-size: 4%;
+	background-position: 99% 50%;
+}
+}
+
+
+
+
+/***********************End Of Mobile Menu****************************/

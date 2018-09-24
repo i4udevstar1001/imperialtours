@@ -1,0 +1,159 @@
+(function($){
+	//console.log('SCRIPT Working');
+    $(document).ready( function(){
+      
+   $("#content_top_area ul.nav-tabs li").each(function(){
+	   $(this).find("a").click(function(){
+			 var href = $(this).attr("href");
+			 var query_str = href.split('#');
+			 $('body').removeClass('destination_guide');
+	   		 $('body').removeClass('experts');
+   			 $('body').removeClass('china_host');
+			 $('body').addClass(query_str[1]);
+	   }); 
+   });
+   
+   $("body.tax-destinations #gallery-container .col-md-6").each(function(){
+	   $(this).find(".gallery-item .highlights_image .image_overlay").click(function(){
+			 $(this).next("img" ).trigger( "click" );
+	   }); 
+	   $(this).find(".gallery-item .highlights_title").click(function(){
+			 $(this).parent().find('.highlights_image img' ).trigger( "click" );
+	   });
+   });
+   
+   $("#inner-destination-right-area section .front_destinations_list ul li").each(function(){
+	   $(this).find(".image-shadow").click(function(){
+			 var href = $(this).find("a").attr("href");
+			 window.location.href = href;
+	   }); 
+   });
+
+   $("#newsletterwidget-3 form .tnp-email").attr("placeholder","Sign Up With Your Email");
+   $("#search_box form #s").attr("placeholder","Search");  /*Blog Page Search */
+   $("body.page-id-310 #whole-content-area #bredacrumb-section span:last-child span").text("FAQ");
+   
+   function windowSize() {
+
+    if (document.getElementsByClassName('our_philosophy_lists_row')) { 
+     $(".our_philosophy_lists_row").each(function(){
+         maxHeight = $(this).find('.our_philosophy_content_area .philosophy_area').height();
+		 $(this).find('.our_philosophy_content_area').height(maxHeight);
+     });
+    }
+	
+	if (document.getElementsByClassName('our_philosophy_listing_row')) { 
+     $(".our_philosophy_listing_row").each(function(){
+         maxHeight = $(this).find('.our_philosophy_listing_content_section .our_philosophy_content_container').height();
+		 $(this).find('.our_philosophy_listing_content_section').height(maxHeight);
+     });
+    }
+	
+    $(".page-id-304 #show_more").click(function(){
+		 $(this).parents('.tours_itinerary').find('.itinerary-row').css("display","block");
+         $(this).hide();
+		 $(this).next('button#hide_more').css("display","block");
+     });
+	 
+	$(document).ready(function(){	
+		$('video source').prop('type',"video/mp4");
+	});	
+		
+	 $(".page-id-304 #hide_more").click(function(){
+		 $(this).parents('.tours_itinerary').find('.itinerary-row').each(function(pos) {
+			 if(pos > 5) {
+				$(this).css("display","none");
+			 }
+		 });
+
+    	 $(this).css("display","none");
+		 $(this).prev('button#show_more').show();
+     });
+	
+	 $("#row_section_hide").show();
+	 
+	 if (document.getElementById("whole_custom_itineraries_area")) { 
+		 var x = document.getElementById("row_section_hide");
+		if (x.style.display === "block") {
+			x.style.display = "none";
+		} else {
+			x.style.display = "block";
+		}
+		 var button_change = document.getElementById("custom_itineraries_show_more");
+		  if (button_change.innerHTML == "Show Less") {
+			button_change.innerHTML = "Show More";
+		  } else {
+			button_change.innerHTML = "Show Less";
+		  }
+	}
+	
+	/*if (document.getElementsByClassName('banner_page_title')) { 
+     $(".whole_banner_page_title").each(function(){
+         maxHeight = $(this).find('.banner_page_title').height();
+		 $(this).find('.banner_page_title').height(maxHeight);
+     });<div class="show_more"><button id="show_more" type="button" class="btn btn-default">Show More</button></div>
+    }*/
+    var width = $(window).width();
+	var height = $(window).height();
+	if (document.getElementsByClassName('widget_media_image')) { 
+     $("#banner-area .widget_media_image img").each(function(){
+         maxHeight = $(this).height();
+         img_src = $(this).attr("src");
+		 $('.whole_banner_page_title').height(maxHeight);
+         if(width <= 767){
+            $('.whole_banner_page_title').css('background','url('+img_src+') no-repeat 50% 50% / cover');
+         }else {
+            $('.whole_banner_page_title').css('background','');
+         }
+     });
+    }
+
+    if (document.getElementById('taxonomy_banner_area')) { 
+     $("#taxonomy_banner_area img").each(function(){
+         tax_maxHeight = $(this).height();
+         tax_img_src = $(this).attr("src");
+		 $('.whole_banner_page_title').height(tax_maxHeight);
+         if(width <= 767){
+            $('.whole_banner_page_title').css('background','url('+tax_img_src+') no-repeat 50% 50% / cover');
+         }else {
+            $('.whole_banner_page_title').css('background','');
+         }
+     });
+    }
+	
+   }
+ 
+   windowSize();
+   $(window).resize(function(){
+     windowSize();
+   });
+		$(document).ready(function () {
+      		$('body.page-id-310 #whole_content_bottom_area a.accordion-toggle.collapsed').css('background', '#318b8b');
+      });
+		
+    });
+
+})(jQuery);
+
+function show_more_function() {
+	
+
+    var x = document.getElementById("row_section_hide");
+    if (x.style.display === "block") {
+        x.style.display = "none";
+    } else {
+        x.style.display = "block";
+    }
+	var change = document.getElementById("custom_itineraries_show_more");
+	  if (change.innerHTML == "Show More") {
+		change.innerHTML = "Show Less";
+	  } else {
+		change.innerHTML = "Show More";
+	  }
+	  
+	  /*if (change.innerHTML == "Show Less") {
+		change.innerHTML = "Show More";
+	  } else {
+		change.innerHTML = "Show Less";
+	  }*/
+}

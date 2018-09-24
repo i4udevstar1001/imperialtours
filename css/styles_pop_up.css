@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800');
+
+*, :after, :before {
+	box-sizing:border-box;
+}
+.gallery-container {
+	width:100%;
+}
+.gallery-img {
+    display:block;
+    max-width:100%;
+    cursor:pointer;
+}
+
+#lightbox {
+	position: absolute;
+	width: 100%;
+	background: #408B8D;
+	top: 0px;
+	bottom: 0px;
+	z-index: 111;
+	opacity: 0.989999;
+}
+
+.lightbox-overlay {
+    position: absolute;
+    top: 150px;
+    right: 0px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    background: #408B8D;
+    z-index: 999999;
+    opacity: 0.989999;
+}
+
+.lightbox-container {
+    margin: auto;
+    padding: 1em 1em 2em 1em;
+    border-radius: .2em; 
+    text-align: center;
+    position: relative;
+    width: 85%;
+}
+.close-modal img.emoji {
+    font-size: 0px;
+    padding: 44px 0px 0px 48px !important;
+}
+.lightbox-container img.lightbox-image {
+    border-radius: 15px;
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    padding-bottom: 8px;
+    margin-top: 40px;
+}
+.close-modal {
+    background: url(images/highlight-close-button.svg) no-repeat;
+    cursor: pointer;
+    font-size: 0;
+    margin-right: 0px;
+    background-position: center;
+    width: 48px;
+    position: absolute;
+    right: 26px;
+    top: -23px;
+    background-size: 45px;
+}
+.lightbox-description {
+    text-align: left;
+    font-size: 27px !important;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    font-family: 'Montserrat', sans-serif;
+    text-shadow: -1px 0px 1px #a9c7c7;
+    margin-top: 15px;
+}
+.lightbox-description .title {
+    margin-left: 30px;
+    text-shadow: initial;
+    font-size: 28px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 6px;
+    word-spacing: 5px;
+}
+.lightbox-description .desc {
+    font-size: 21px;
+    letter-spacing: 0.1px;
+    font-family: 'AGaramondPro-Regular';
+    text-transform: initial;
+    text-shadow: initial;
+    margin-left: 30px;
+    margin-top: 8px;
+    margin-right: 20px;
+}
+.lightbox-navigation {
+    position: relative;
+    margin-top: 62px;
+}
+.lightbox-navigation a.next {
+    background: url(images/right-arrow.svg) no-repeat 100% 0%;
+    position: absolute;
+    padding: 0px 15px;
+    right: 10px;
+    font-size: 0px;
+}
+.lightbox-navigation a.prev {
+    background: url(images/left-arrow.svg) no-repeat 0% 0%;
+    position: absolute;
+    display: block;
+    right: 51px;
+    padding: 0px 15px;
+    font-size: 0px;
+}
+.lightbox-navigation span.lightbox-navigation__counter {
+    position: absolute;
+    right: 11px;
+    bottom: -3px;
+    color: #8acdcf;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+}
+.lightbox-navigation__button {
+    text-decoration:none;
+    font-size: 0px;
+}
+article {
+    width:70%;
+    margin:auto;
+}
+.animated-scroll__menu {
+    display:-ms-flexbox;
+    display:flex;
+    -ms-flex-line-pack:center;
+    align-content:center;
+    -ms-flex-pack:center;
+    justify-content:center;
+    list-style-type:none;
+}
+.animated-scroll__menu li {
+	margin:1em;
+}
+.animated-scroll__content {
+    padding-top:4em;
+    line-height:1.8;
+}
+
+
+/*===================POP-UP BACKGROUND===============================*/
+

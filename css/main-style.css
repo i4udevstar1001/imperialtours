@@ -1,0 +1,284 @@
+@font-face {
+ font-family: 'AGaramondPro-Regular';
+ src: url('fonts/AGaramondPro-Regular.eot');
+ src: url('fonts/AGaramondPro-Regular.woff2') format('woff2'),  
+      url('fonts/AGaramondPro-Regular.woff') format('woff'),  
+      url('fonts/AGaramondPro-Regular.ttf') format('truetype'),  
+      url('fonts/AGaramondPro-Regular.svg#AGaramondPro-Regular') format('svg'),  
+      url('fonts/AGaramondPro-Regular.eot?#iefix') format('embedded-opentype');
+ font-weight: normal;
+ font-style: normal;
+}
+
+body {
+margin: 0;
+padding: 0;
+color: #929497;
+font-size: 21px;
+font-family: 'AGaramondPro-Regular';
+line-height: 32px;
+background: #ffffff;
+}
+
+.container {
+	width: 1115px;
+	padding: 0px;
+}
+
+.default-page {
+width: 100%;
+max-height: 400px;
+text-align: center;
+overflow: hidden;
+background: #f4f4f4;
+}
+#whole-header-area video, 
+#whole-header-area section img {
+width: 100%;
+display: block;
+}
+#whole-header-area {
+position: relative;
+overflow: hidden;
+}
+#whole-header-area::after {
+position: absolute;
+top: 0px;
+left: 0px;
+background: rgba(0,0,0,0.4);
+content: "";
+width: 100%;
+height: 100%;
+}
+body.home #inner-header-area {
+left: 0;
+margin: auto;
+position: absolute;
+right: 0;
+text-align: center;
+width: 1080px;
+z-index: 1;
+top: 0px;
+}
+body.home #header-area {
+margin: auto;
+padding: 0;
+width: 100%;
+overflow: hidden;
+}
+#header-area .header-logo {
+text-align: center; 
+width: 440px;
+height: 32px;
+margin: auto;
+margin-top: 168px;
+overflow: hidden; 
+}
+
+#header-area .header-menu {
+margin-top: 16px;
+width: 100%;
+text-align: center;
+overflow: hidden;
+}
+body.home #header-area .header-menu ul li:nth-last-child(1) {
+display: none;
+}
+#headertext-area {
+width: 100%;
+margin-top: 159px;
+text-align: center;
+overflow: hidden;
+}
+#content_top_area {
+overflow: hidden;
+}
+
+#whole-destination-area {
+/* background: url("images/destination_bg.svg") repeat scroll 0 0; */
+background: url("destination_home_bg.png") repeat left top;
+overflow: hidden;
+width: 100%;
+background-size: 7.9%;
+}
+
+#whole-comment-area {
+background: #E2F5F5;
+overflow: hidden;
+padding: 45px 0 50px;
+padding-bottom: 20px;
+}
+body.tax-destinations #whole-comment-area .comment_content {
+padding: 0;
+width: 1070px;
+background: url(images/quote.svg) no-repeat 51% 41%;
+background-size: 49% 63%;
+}
+#inner-comment-area {
+padding: 20px 0px 29px 0px;
+width: 1070px;
+margin: auto;
+background: url(images/quote.svg) no-repeat 49% 6%;
+background-size: 50% 88%;
+}
+
+#whole-private-jet-tours-area {
+background: url(images/aeroplane_high.jpg) no-repeat 45% 100%;
+overflow: hidden;
+padding-top: 68px;
+padding-bottom: 74px;
+background-size: cover;
+}
+#inner-private-jet-tours-area {
+padding: 0;
+width: 1070px;
+margin: auto;
+text-align: right;
+}
+#whole-travelling-concierge-area {
+padding-top: 108px;
+overflow: hidden;
+padding-bottom: 110px;
+}
+
+body.page-id-598 #whole-travelling-concierge-area {
+padding-bottom: 80px !important;
+}
+
+#inner-travelling-concierge-area {
+width: 1110px;
+padding: 7px 0px 0px 0px;
+margin: auto;
+}
+#whole-dream-area {
+background: #f0fafa none repeat scroll 0 0;
+padding: 114px 0 105px;
+overflow: hidden;
+}
+#inner-dream-area {
+width: 1108px;
+margin: auto;
+padding: 0px;
+}
+#inner-phylosophy-area {
+width: 100%;
+padding: 0px;
+}
+#whole-blogpost-area {
+background: #f0fafa;
+overflow: hidden;
+padding: 95px 0px 70px;
+}
+body.page-id-47 #whole-footer-top-area {
+padding: 120px 0 212px 0;
+}
+#inner-footer-top-area {
+background: #636466;
+padding: 0;
+border-radius: 5px;
+}
+
+#inner-footer-top-area section {
+	width: 33.33%;
+	float: left;
+	border-right: 1px solid #8b8b8b;
+	border-bottom: 1px solid #8b8b8b;
+}
+
+#inner-footer-top-area section#text-12,
+#inner-footer-top-area section#text-13,
+#inner-footer-top-area section#newsletterwidget-3 {
+	padding: 49px 54px 46px 54px;
+	height: 284px;
+}
+
+#inner-footer-top-area section#text-15,
+#inner-footer-top-area section#text-16 {
+	padding: 28px 55px 46px 55px;
+	height: 264px;
+}
+
+#inner-footer-top-area section#text-14 {
+	padding: 36px 44px 46px 55px;
+	height: 264px;
+}
+
+#inner-footer-top-area section#text-14, 
+#inner-footer-top-area section#text-15, 
+#inner-footer-top-area section#text-16 {
+border-bottom: 0px;
+}
+
+#inner-footer-top-area #text-14 p a {
+margin-top: 2px !important;
+}
+#inner-footer-top-area #text-15 a.blog_link {
+    line-height: 24px;
+    color: #fff;
+	font-size: 18px;
+    display: block;
+}
+#inner-footer-top-area #text-15 p a {
+margin-top: 15px;
+}
+/*=====================================INNER PAGE =============================================*/
+
+#inner-page-header-area {
+width: 100%;
+background: rgba(10, 49, 96, 0.9);
+position: absolute;
+z-index: 111;
+padding: 2px 0px 2px 0px;
+}
+.inner-header-logo img {
+height: 15px;
+}
+.inner-header-logo {
+padding: 0px;
+margin-top: 32px;
+margin-bottom: 35px;
+width: 20%;
+float: left;
+}
+.inner-header-menu {
+margin-top: 31px;
+width: 80%;
+float: left;
+padding-left: 8px;
+padding-right: 0px;
+}
+#taxonomy_banner_area, #banner-area {
+overflow: hidden;
+min-height: 420px;
+}
+#taxonomy_banner_area img, #banner-area img {
+width: 100%;
+margin: auto;
+}
+#accordion {
+margin-top: 50px;
+}
+.destination_guide_container, 
+.experts_posts_container, 
+.china_host_container {
+width: 910px;
+margin: auto;
+overflow: hidden;
+padding-top: 120px;
+padding-bottom: 179px;
+}
+body.single-blog #banner-area {
+min-height: 103px;
+overflow: hidden;
+}
+body.single-blog .blog_lists_container {
+width: 100%;
+margin: auto;
+overflow: hidden;
+}
+body.single-blog #inner_blog_content {
+width: 100%;
+margin: auto;
+padding: 20px 30px 22px 0px;
+position: relative;
+}
