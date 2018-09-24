@@ -96,7 +96,7 @@ overflow: hidden;
 
 #whole-destination-area {
 /* background: url("images/destination_bg.svg") repeat scroll 0 0; */
-background: url("destination_home_bg.png") repeat left top;
+background: url("images/destination_home_bg.png") repeat left top;
 overflow: hidden;
 width: 100%;
 background-size: 7.9%;
